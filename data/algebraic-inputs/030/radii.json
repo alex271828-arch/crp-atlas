@@ -1,0 +1,87 @@
+{
+  "primitive_symbol": "alpha",
+  "primitive_polynomial": "alpha",
+  "isolating_interval": [
+    "0",
+    "0"
+  ],
+  "groups": [
+    [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  ],
+  "squared_radii": [
+    "sqrt(5)/8 + 5/8"
+  ],
+  "radii": [
+    "sqrt(sqrt(5)/8 + 5/8)"
+  ],
+  "Q_factored": "(T-(sqrt(5)/8 + 5/8))",
+  "Q_coefficients": [
+    "1",
+    "-5/8 - sqrt(5)/8"
+  ],
+  "verification_method": "exact_gram_geometry",
+  "auxiliary_assignments": {},
+  "geometric_certificate": {
+    "metric": [
+      [
+        "25/72 - 5*sqrt(5)/72",
+        "-5/72 + sqrt(5)/72",
+        "-5/72 + sqrt(5)/72"
+      ],
+      [
+        "-5/72 + sqrt(5)/72",
+        "7*sqrt(5)/72 + 37/72",
+        "1/72 + 7*sqrt(5)/72"
+      ],
+      [
+        "-5/72 + sqrt(5)/72",
+        "1/72 + 7*sqrt(5)/72",
+        "7*sqrt(5)/72 + 37/72"
+      ]
+    ],
+    "coordinates": [
+      [
+        "-sqrt(5)/5",
+        "1/2 - sqrt(5)/2",
+        "1/2 - sqrt(5)/2"
+      ],
+      [
+        "-1/2 + sqrt(5)/10",
+        "-1",
+        "-1/2 + sqrt(5)/2"
+      ],
+      [
+        "1",
+        "0",
+        "0"
+      ],
+      [
+        "-1/2 + sqrt(5)/10",
+        "-1/2 + sqrt(5)/2",
+        "-1"
+      ],
+      [
+        "0",
+        "1",
+        "0"
+      ],
+      [
+        "0",
+        "0",
+        "1"
+      ]
+    ],
+    "center": [
+      "-3*sqrt(5)/10 - 1/2",
+      "0",
+      "0"
+    ]
+  }
+}

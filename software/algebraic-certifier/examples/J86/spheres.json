@@ -1,0 +1,72 @@
+{
+  "k": 3,
+  "center": [
+    0.6703574291148168,
+    0.36141230773516436,
+    -0.648075659883324
+  ],
+  "radii": [
+    0.8119637563672284,
+    0.838843305566275,
+    0.9999999999420784
+  ],
+  "squared_radii": [
+    0.6592851416539798,
+    0.7036580912933549,
+    0.9999999998841569
+  ],
+  "groups": [
+    [
+      8,
+      7
+    ],
+    [
+      9,
+      5,
+      0,
+      2
+    ],
+    [
+      3,
+      1,
+      4,
+      6
+    ]
+  ],
+  "radius_spreads": [
+    1.8182122474286189e-12,
+    1.3172796187177482e-12,
+    1.4859224961583095e-12
+  ],
+  "max_radius_spread": 1.8182122474286189e-12,
+  "radius_tolerance": 1e-06,
+  "minimum_certified": false,
+  "numerical_candidate_search_finished": true,
+  "completed_candidate_tests_through": 2,
+  "approximate_or_parallel_branches_skipped": 0,
+  "nodes": 44,
+  "seconds": 0.0030654999427497387,
+  "decisions": [
+    {
+      "k": 1,
+      "outcome": "no_candidate",
+      "nodes": 4
+    },
+    {
+      "k": 2,
+      "outcome": "no_candidate",
+      "nodes": 40
+    }
+  ],
+  "status": "NUMERICAL_CANDIDATE_RESULT",
+  "note": "Smallest numerical sphere count found; not an exact minimality certificate or a complete thick-shell optimization.",
+  "johnson": 86,
+  "name": "J86 sphenocorona",
+  "input_file": "numerical.json",
+  "input_sha256": "9b36a54d77d56dcfca5f47cb200aec92f175b451b8f046702cfdb82952e1d7f7",
+  "vertices": 10,
+  "bi_max_radial_defect": 2.984750224754862e-10,
+  "bi_max_face_pair_error": 1.4881695875601508e-10,
+  "stored_center_count_at_1e_7": 3,
+  "unseeded_tolerance_search_sensitive": false
+}

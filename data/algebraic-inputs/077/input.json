@@ -1,0 +1,128 @@
+{
+  "faces": [
+    [
+      3,
+      2,
+      6
+    ],
+    [
+      0,
+      2,
+      3,
+      4
+    ],
+    [
+      6,
+      1,
+      5
+    ],
+    [
+      5,
+      4,
+      3
+    ],
+    [
+      5,
+      3,
+      6
+    ],
+    [
+      0,
+      1,
+      2
+    ],
+    [
+      2,
+      1,
+      6
+    ],
+    [
+      0,
+      4,
+      5,
+      1
+    ]
+  ],
+  "groups": [
+    [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    [
+      6
+    ]
+  ],
+  "squared_radii_numeric": [
+    0.5833333333330692,
+    0.9915816237994718
+  ],
+  "positions": [
+    [
+      1.0000000000000002,
+      -0.4184316465933751,
+      -0.9082482904631075
+    ],
+    [
+      0.9999999999989155,
+      0.577350269188521,
+      -0.8164965809285073
+    ],
+    [
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      -1.9858189167128634e-13,
+      -0.4184316465931012,
+      -0.9082482904632334
+    ],
+    [
+      7.540104942092499e-14,
+      0.577350269188069,
+      -0.8164965809274755
+    ],
+    [
+      0.5,
+      0.8660254037844386,
+      0.0
+    ]
+  ],
+  "center": [
+    0.4999999999999899,
+    0.05297287419783085,
+    -0.5749149571304352
+  ],
+  "sources": {
+    "faces": {
+      "path": "/Users/ferleger/Downloads/crp_bi_numeric_v3/results/validation-johnson92/049-J49/input.json",
+      "sha256": "6d11ae66d5d70a73716c8128e91ae4be2e9faf52907bd2d37d5b735b9e9a9050"
+    },
+    "bi": {
+      "path": "/Users/ferleger/Downloads/crp_bi_numeric_v3/results/validation-johnson92/049-J49/numerical.json",
+      "sha256": "ed2113312f6624a3fca11e812283c44f609327aa32c4a58daea13ef240fc837b"
+    },
+    "partition": {
+      "path": "/Users/ferleger/.codex/.chatgpt-projects/g-p-6aa04372c90481918903cd634fed4dea/outputs/crp-min-spheres-bi-20260914/cases/055-H5a27c0dce51da18.json",
+      "sha256": "5e12706d672b5c4c9a9a92c093ce7ae644376d828e544999d66095a2e4e4fb5c"
+    }
+  },
+  "name": "J49 augmented triangular prism",
+  "preflight": {
+    "numerical_only": true,
+    "center_clearance": 0.2886751345943447,
+    "radius_spread": 1.3322676295501878e-14,
+    "face_pair_error": 1.159849993825901e-12,
+    "within_shell_center_rank": 3
+  },
+  "notes": []
+}

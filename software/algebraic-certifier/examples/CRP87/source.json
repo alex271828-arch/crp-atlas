@@ -1,0 +1,6 @@
+{
+  "original_sphere_file": "/Users/ferleger/.codex/.chatgpt-projects/g-p-6aa04372c90481918903cd634fed4dea/outputs/crp-min-spheres-bi-20260914/cases/087-Hac591203a312cc3.json",
+  "original_bi_file": "/Users/ferleger/Downloads/crp_bi_numeric_v2/results/census-20260913-031248/087-fbfdd719780d0b8388121b9881b19d83c02b09a60facfa5bae8ba7977c896078/numerical.json",
+  "original_bi_sha256": "6b8c5b820f49fd07d69d4df2c980fd9520c80c64de41620bfe1abbd1582960b1",
+  "note": "Numerical witness only. No exact answer is supplied to the solver."
+}

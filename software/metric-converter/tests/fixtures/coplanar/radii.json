@@ -1,0 +1,37 @@
+{
+  "primitive_symbol": "alpha",
+  "primitive_polynomial": "16*alpha**2 - 20*alpha + 5",
+  "isolating_interval": [
+    "16692641/18454930",
+    "18662940/20633239"
+  ],
+  "groups": [
+    [
+      3,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    [
+      1,
+      2,
+      4,
+      6
+    ],
+    [
+      0,
+      5
+    ]
+  ],
+  "squared_radii": [
+    "alpha",
+    "alpha + 1",
+    "5*alpha - 1"
+  ],
+  "verification_method": "radial"
+}

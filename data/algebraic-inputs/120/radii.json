@@ -1,0 +1,164 @@
+{
+  "primitive_symbol": "alpha",
+  "primitive_polynomial": "4*alpha**2 - 2*alpha - 1",
+  "isolating_interval": [
+    "7465176/9227465",
+    "9227465/11405774"
+  ],
+  "groups": [
+    [
+      3,
+      4,
+      11,
+      12,
+      13,
+      14
+    ],
+    [
+      0,
+      1,
+      2,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      15,
+      16,
+      17
+    ]
+  ],
+  "squared_radii": [
+    "1",
+    "2*alpha + 1"
+  ],
+  "radii": [
+    "1",
+    "sqrt(2*alpha + 1)"
+  ],
+  "Q_factored": "(T-(1))*(T-(2*alpha + 1))",
+  "Q_coefficients": [
+    "1",
+    "-2*alpha - 2",
+    "2*alpha + 1"
+  ],
+  "verification_method": "exact_gram_geometry",
+  "auxiliary_assignments": {},
+  "geometric_certificate": {
+    "metric": [
+      [
+        "7*alpha/18 + 121/108",
+        "alpha/18 + 1/108",
+        "7*alpha/18 - 95/108"
+      ],
+      [
+        "alpha/18 + 1/108",
+        "31*alpha/18 + 97/108",
+        "alpha/18 + 1/108"
+      ],
+      [
+        "7*alpha/18 - 95/108",
+        "alpha/18 + 1/108",
+        "7*alpha/18 + 121/108"
+      ]
+    ],
+    "coordinates": [
+      [
+        "53*alpha/2 - 21",
+        "2*alpha - 3/2",
+        "51*alpha/2 - 43/2"
+      ],
+      [
+        "55/4 - 35*alpha/2",
+        "1 - alpha",
+        "53/4 - 35*alpha/2"
+      ],
+      [
+        "143/4 - 44*alpha",
+        "3/2 - alpha",
+        "143/4 - 45*alpha"
+      ],
+      [
+        "231/4 - 141*alpha/2",
+        "3 - 3*alpha",
+        "229/4 - 141*alpha/2"
+      ],
+      [
+        "1",
+        "0",
+        "0"
+      ],
+      [
+        "55*alpha/2 - 43/2",
+        "-1/2",
+        "53*alpha/2 - 22"
+      ],
+      [
+        "57/4 - 35*alpha/2",
+        "-alpha",
+        "55/4 - 35*alpha/2"
+      ],
+      [
+        "53*alpha - 87/2",
+        "2*alpha - 2",
+        "53*alpha - 87/2"
+      ],
+      [
+        "53/4 - 35*alpha/2",
+        "1 - alpha",
+        "55/4 - 35*alpha/2"
+      ],
+      [
+        "143/4 - 45*alpha",
+        "3/2 - alpha",
+        "143/4 - 44*alpha"
+      ],
+      [
+        "0",
+        "1",
+        "0"
+      ],
+      [
+        "229/4 - 141*alpha/2",
+        "3 - 3*alpha",
+        "231/4 - 141*alpha/2"
+      ],
+      [
+        "0",
+        "0",
+        "1"
+      ],
+      [
+        "141*alpha/2 - 227/4",
+        "3*alpha - 3",
+        "141*alpha/2 - 225/4"
+      ],
+      [
+        "141*alpha/2 - 225/4",
+        "3*alpha - 3",
+        "141*alpha/2 - 227/4"
+      ],
+      [
+        "55/4 - 35*alpha/2",
+        "-alpha",
+        "57/4 - 35*alpha/2"
+      ],
+      [
+        "53*alpha/2 - 22",
+        "-1/2",
+        "55*alpha/2 - 43/2"
+      ],
+      [
+        "51*alpha/2 - 43/2",
+        "2*alpha - 3/2",
+        "53*alpha/2 - 21"
+      ]
+    ],
+    "center": [
+      "1/2",
+      "0",
+      "1/2"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "pipeline": "CRP° exhaustive enumeration and certification",
+  "components": [
+    {
+      "stage": 1,
+      "name": "Census",
+      "version": "1.16",
+      "path": "/Users/ferleger/Downloads/crp3456810_census_v1_16"
+    },
+    {
+      "stage": 2,
+      "name": "BI certifier",
+      "version": "4.0",
+      "path": "/Users/ferleger/Downloads/crp_bi_certifier_v4"
+    },
+    {
+      "stage": 3,
+      "name": "Algebraic radii",
+      "version": "3.0.11",
+      "path": "/Users/ferleger/Downloads/crp_algebraic_radii_v3.0.11",
+      "evidence": "195 successes from 3.0.7 plus verified later repairs for 66, 111 and 129"
+    },
+    {
+      "stage": 4,
+      "name": "Metric and Cartesian coordinate converter",
+      "version": "1.0.0",
+      "path": "/Users/ferleger/Downloads/crp_metric_converter_v1"
+    }
+  ],
+  "identity": "Full canonical face incidence is the join key; historical algebraic case numbers and BI 4.0 run numbers differ."
+}

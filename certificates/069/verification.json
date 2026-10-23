@@ -1,0 +1,22 @@
+{
+  "case": "124",
+  "bi_case": "134",
+  "bi_cid": "202b1df470343e82fdfb0d27cdd0b4c72eb761b2b7cd1894e43efbc582d43c41",
+  "source_version": "3.0.7",
+  "source": "/Users/ferleger/Downloads/crp_algebraic_radii_v3/out/all-198-v3.0.7-20260916-050904/124-He11982c52506c1e",
+  "certificate_sha256": "1f353748614b5f6ab9da0bd218b0e043b2e50c871c64a0f84b96172906d3dd84",
+  "seconds": 32.36505337501876,
+  "status": "CERTIFIED",
+  "verified": true,
+  "vertices": 35,
+  "faces": 37,
+  "regular_face_pairs": 205,
+  "supporting_facets": 37,
+  "exact_facet_tilings": true,
+  "exact_sphere_memberships": 35,
+  "cartesian_isometry": true,
+  "printed_formulas_verified": true,
+  "positive_radicals": 2,
+  "field_minimality_claimed": false,
+  "global_expression_optimality_claimed": false
+}

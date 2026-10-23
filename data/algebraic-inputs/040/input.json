@@ -1,0 +1,104 @@
+{
+  "faces": [
+    [
+      0,
+      3,
+      1
+    ],
+    [
+      3,
+      2,
+      4
+    ],
+    [
+      4,
+      1,
+      3
+    ],
+    [
+      0,
+      1,
+      2
+    ],
+    [
+      0,
+      2,
+      3
+    ],
+    [
+      2,
+      1,
+      4
+    ]
+  ],
+  "groups": [
+    [
+      0,
+      1,
+      2,
+      3
+    ],
+    [
+      4
+    ]
+  ],
+  "squared_radii_numeric": [
+    0.3750000000001548,
+    1.0416666666666863
+  ],
+  "positions": [
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.5,
+      0.8660254037844386,
+      0.0
+    ],
+    [
+      0.4999999999997531,
+      0.2886751345946704,
+      -0.8164965809282316
+    ],
+    [
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      1.333333333333555,
+      0.7698003589192469,
+      -0.5443310539520411
+    ]
+  ],
+  "center": [
+    0.5,
+    0.28867513459481287,
+    -0.20412414523231065
+  ],
+  "sources": {
+    "faces": {
+      "path": "/Users/ferleger/Downloads/crp_bi_numeric_v3/results/validation-johnson92/012-J12/input.json",
+      "sha256": "dd834c047a6066b1e63cc487b9f3f5f28371809a5a118a7399ac91f6542af6fb"
+    },
+    "bi": {
+      "path": "/Users/ferleger/Downloads/crp_bi_numeric_v3/results/validation-johnson92/012-J12/numerical.json",
+      "sha256": "29cc225c26e3cf89c38d4b3a438aee86b527bc4d265568bb886d36336ace6823"
+    },
+    "partition": {
+      "path": "/Users/ferleger/.codex/.chatgpt-projects/g-p-6aa04372c90481918903cd634fed4dea/outputs/crp-min-spheres-bi-20260914/cases/178-H264eb3f3443fc22.json",
+      "sha256": "3eaf8e2cad5b192ce2931a6bdb3199fe1a652a467f073ca17108cf56ebf8f227"
+    }
+  },
+  "name": "J12 triangular bipyramid",
+  "preflight": {
+    "numerical_only": true,
+    "center_clearance": 0.20412414523190608,
+    "radius_spread": 1.1102230246251565e-16,
+    "face_pair_error": 4.951594689828198e-13,
+    "within_shell_center_rank": 3
+  },
+  "notes": []
+}

@@ -1,0 +1,62 @@
+{
+  "k": 3,
+  "center": [
+    0.5,
+    1.0,
+    -0.8090169943749475
+  ],
+  "radii": [
+    0.9510565162951535,
+    1.3800393100152886,
+    1.8768437563999216
+  ],
+  "squared_radii": [
+    0.9045084971874737,
+    1.9045084971874737,
+    3.5225424859373686
+  ],
+  "groups": [
+    [
+      3,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    [
+      1,
+      2,
+      4,
+      6
+    ],
+    [
+      0,
+      5
+    ]
+  ],
+  "input_file": "/Users/ferleger/Downloads/crp_bi_numeric_v2/results/census-20260913-031248/066-9310b3fd363071b688204016fd8e7db34077289c7f461c783a95ea68fd26e9aa/numerical.json",
+  "display_id": "H97350c77009d16a",
+  "name": "CRP0-H97350c77009d16a",
+  "census_index": 66,
+  "note": "Corrected positive-radius three-sphere numerical guide. The original partition fixes its center at vertex 7 and has an exact zero radius. The solver must derive and verify all exact radii anew.",
+  "input_sha256": "de22748eb5dafbf8fa2bea999381874c3729c1f3115035232fd9d9d7974886d5",
+  "body_class": "Other",
+  "vertices": 15,
+  "cid": "9310b3fd363071b688204016fd8e7db34077289c7f461c783a95ea68fd26e9aa",
+  "correction_provenance": {
+    "replaces_partition_sha256": "a2ba82b687632573e98f1c25f199d64f7283223d98623afecf3338e03d3b1923",
+    "replaces_partition_filename": "066-H97350c77009d16a.json",
+    "faces_sha256": "24ea7e251d47566e6617d5d714785a06e11c33c0b81a6d0522b9678587fbeb4a",
+    "prior_certification_version": "3.0.7",
+    "prior_certification": "SOLVED and independently CERTIFIED",
+    "positive_group_sizes": [
+      9,
+      4,
+      2
+    ]
+  }
+}

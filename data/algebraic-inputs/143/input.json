@@ -1,0 +1,136 @@
+{
+  "faces": [
+    [
+      7,
+      5,
+      3
+    ],
+    [
+      0,
+      2,
+      3,
+      4
+    ],
+    [
+      3,
+      2,
+      6,
+      7
+    ],
+    [
+      5,
+      4,
+      3
+    ],
+    [
+      0,
+      1,
+      2
+    ],
+    [
+      2,
+      1,
+      6
+    ],
+    [
+      6,
+      1,
+      5,
+      7
+    ],
+    [
+      0,
+      4,
+      5,
+      1
+    ]
+  ],
+  "groups": [
+    [
+      1,
+      2,
+      3,
+      5
+    ],
+    [
+      0,
+      4,
+      6,
+      7
+    ]
+  ],
+  "squared_radii_numeric": [
+    0.4999999999999972,
+    1.0000000000000018
+  ],
+  "positions": [
+    [
+      1.5000000000000049,
+      0.8660254037844421,
+      -0.9999999999999932
+    ],
+    [
+      0.9999999999999998,
+      6.189493362285248e-15,
+      -1.0
+    ],
+    [
+      0.5000000000000034,
+      0.8660254037844406,
+      -0.9999999999999947
+    ],
+    [
+      0.5,
+      0.8660254037844385,
+      0.0
+    ],
+    [
+      1.5,
+      0.8660254037844387,
+      9.207845895079142e-15
+    ],
+    [
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      2.0956047880940717e-15,
+      2.253752739989068e-15,
+      -1.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ]
+  ],
+  "center": [
+    0.7500000000000022,
+    0.43301270189222063,
+    -0.49999999999999734
+  ],
+  "sources": {
+    "faces": {
+      "path": "/Users/ferleger/Downloads/crp_bi_numeric_v2/results/census-20260913-031248/052-6d02086522e8b63fa222dfb4c491607f28ffc05395ba0fd264ffffe19f2bfae6/input.json",
+      "sha256": "c5f1bcf4e11a1ae84248e08694e9d28b97bb1d3f88891bdd43d3b5f18bdad1ad"
+    },
+    "bi": {
+      "path": "/Users/ferleger/Downloads/crp_bi_numeric_v2/results/census-20260913-031248/052-6d02086522e8b63fa222dfb4c491607f28ffc05395ba0fd264ffffe19f2bfae6/numerical.json",
+      "sha256": "65bcb3b75a28c689d86348cc54b7c80f1165689f5131330b55ca92754f74dc3e"
+    },
+    "partition": {
+      "path": "/Users/ferleger/.codex/.chatgpt-projects/g-p-6aa04372c90481918903cd634fed4dea/outputs/crp-min-spheres-bi-20260914/cases/052-H754d744e034c5cb.json",
+      "sha256": "7e34b51d141f53bb34e2fd2efca31b505ce421e4a1fce3c15adea2ebc853430b"
+    }
+  },
+  "name": "CRP0-H754d744e034c5cb",
+  "preflight": {
+    "numerical_only": true,
+    "center_clearance": 0.4330127018922185,
+    "radius_spread": 2.220446049250313e-16,
+    "face_pair_error": 5.551115123125783e-15,
+    "within_shell_center_rank": 3
+  },
+  "notes": []
+}

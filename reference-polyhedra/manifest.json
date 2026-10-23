@@ -1,0 +1,27 @@
+{
+  "repository": "https://github.com/finnp/polyhedra",
+  "commit": "18a038c22fa6ea9d05bdebe5e7f268f86e946d1b",
+  "attribution": "George W. Hart; JSON conversion by Lee Stemkoski; package by Finn Pauls",
+  "files": {
+    "platonic": {
+      "url": "https://raw.githubusercontent.com/finnp/polyhedra/18a038c22fa6ea9d05bdebe5e7f268f86e946d1b/data/platonic.json",
+      "sha256": "9991b1703a4669b541419b56136743d135466823401a28d879c6722d88fb17af"
+    },
+    "archimedean": {
+      "url": "https://raw.githubusercontent.com/finnp/polyhedra/18a038c22fa6ea9d05bdebe5e7f268f86e946d1b/data/archimedean.json",
+      "sha256": "09dad29b8b5d656b78fecc02417fe028ab945b17c5193a63ae4b2c7372f777fa"
+    },
+    "johnson": {
+      "url": "https://raw.githubusercontent.com/finnp/polyhedra/18a038c22fa6ea9d05bdebe5e7f268f86e946d1b/data/johnson.json",
+      "sha256": "264f24642032d08f85acca67b9bbabad6a06e1b6c0179a21cee259d51d6d1977"
+    },
+    "prisms": {
+      "url": "https://raw.githubusercontent.com/finnp/polyhedra/18a038c22fa6ea9d05bdebe5e7f268f86e946d1b/data/prisms.json",
+      "sha256": "7416897e79bdd910b37e553cbd4d31d4e6c1975c470b2b656895cd5df7ef1c24"
+    },
+    "antiprisms": {
+      "url": "https://raw.githubusercontent.com/finnp/polyhedra/18a038c22fa6ea9d05bdebe5e7f268f86e946d1b/data/antiprisms.json",
+      "sha256": "29bc2ab8d6e2a0038b400e01340735357a7e941fc7a23d2b9318ade330a784d8"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "primitive_symbol": "alpha",
+  "primitive_polynomial": "alpha",
+  "isolating_interval": [
+    "0",
+    "0"
+  ],
+  "groups": [
+    [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  ],
+  "squared_radii": [
+    "7/12"
+  ],
+  "radii": [
+    "sqrt(21)/6"
+  ],
+  "Q_factored": "(T-(7/12))",
+  "Q_coefficients": [
+    "1",
+    "-7/12"
+  ],
+  "verification_method": "radial",
+  "auxiliary_assignments": {
+    "y0": "sqrt(7)/2",
+    "y1": "sqrt(7)/3"
+  }
+}

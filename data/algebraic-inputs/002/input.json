@@ -1,0 +1,125 @@
+{
+  "faces": [
+    [
+      0,
+      5,
+      6,
+      1
+    ],
+    [
+      0,
+      1,
+      2,
+      3
+    ],
+    [
+      5,
+      4,
+      7,
+      6
+    ],
+    [
+      3,
+      2,
+      7,
+      4
+    ],
+    [
+      0,
+      3,
+      4,
+      5
+    ],
+    [
+      2,
+      1,
+      6,
+      7
+    ]
+  ],
+  "groups": [
+    [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  ],
+  "squared_radii_numeric": [
+    0.7499999999999993
+  ],
+  "positions": [
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      4.996003610813204e-16,
+      1.0,
+      -8.695979049691549e-16
+    ],
+    [
+      5.682771884120773e-16,
+      0.9999999999999991,
+      -0.9999999999999997
+    ],
+    [
+      5.674460558014147e-16,
+      5.313640966033567e-16,
+      -0.9999999999999996
+    ],
+    [
+      1.0000000000000004,
+      7.771561172376096e-16,
+      -0.9999999999999999
+    ],
+    [
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      1.0000000000000002,
+      0.9999999999999998,
+      0.0
+    ],
+    [
+      0.9999999999999998,
+      1.0000000000000004,
+      -0.9999999999999994
+    ]
+  ],
+  "center": [
+    0.5000000000000006,
+    0.4999999999999998,
+    -0.49999999999999967
+  ],
+  "sources": {
+    "faces": {
+      "path": "/Users/ferleger/Downloads/crp_bi_numeric_v2/results/census-20260913-031248/056-624bf041ea749c44d04ca67647e7856503e800e666a77e0b8aaf28089b7991aa/input.json",
+      "sha256": "942a7fa2a495748e84e4ffa96670a93c463a9c5c8cc4bd2f6835df812a6dd0af"
+    },
+    "bi": {
+      "path": "/Users/ferleger/Downloads/crp_bi_numeric_v2/results/census-20260913-031248/056-624bf041ea749c44d04ca67647e7856503e800e666a77e0b8aaf28089b7991aa/numerical.json",
+      "sha256": "b029dccfae8eb2e295bf4f05e5efcfe90ed69941c61fc1a75f02f091b9521a89"
+    },
+    "partition": {
+      "path": "/Users/ferleger/.codex/.chatgpt-projects/g-p-6aa04372c90481918903cd634fed4dea/outputs/crp-min-spheres-bi-20260914/cases/056-Hd8ab119cb09e796.json",
+      "sha256": "fc9bf248b026d0475d3b4c2af9fe2ea8f41d0b61929bef95d695181e268ac8eb"
+    }
+  },
+  "name": "cube",
+  "preflight": {
+    "numerical_only": true,
+    "center_clearance": 0.49999999999999933,
+    "radius_spread": 5.551115123125783e-16,
+    "face_pair_error": 1.5543122344752192e-15,
+    "within_shell_center_rank": 3
+  },
+  "notes": []
+}

@@ -1,0 +1,182 @@
+{
+  "primitive_symbol": "alpha",
+  "primitive_polynomial": "4*alpha**2 - 2*alpha - 1",
+  "isolating_interval": [
+    "-1762289/5702887",
+    "-5702887/18454930"
+  ],
+  "groups": [
+    [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      20
+    ],
+    [
+      17
+    ]
+  ],
+  "squared_radii": [
+    "2 - 2*alpha",
+    "3 - 2*alpha"
+  ],
+  "radii": [
+    "sqrt(2 - 2*alpha)",
+    "sqrt(3 - 2*alpha)"
+  ],
+  "Q_factored": "(T-(2 - 2*alpha))*(T-(3 - 2*alpha))",
+  "Q_coefficients": [
+    "1",
+    "4*alpha - 5",
+    "7 - 8*alpha"
+  ],
+  "verification_method": "exact_gram_geometry",
+  "auxiliary_assignments": {},
+  "geometric_certificate": {
+    "metric": [
+      [
+        "335/147 - 1034*alpha/441",
+        "289*alpha/441 - 65/294",
+        "730*alpha/441 - 359/294"
+      ],
+      [
+        "289*alpha/441 - 65/294",
+        "335/147 - 1034*alpha/441",
+        "289*alpha/441 - 65/294"
+      ],
+      [
+        "730*alpha/441 - 359/294",
+        "289*alpha/441 - 65/294",
+        "335/147 - 1034*alpha/441"
+      ]
+    ],
+    "coordinates": [
+      [
+        "4*alpha + 2",
+        "-8*alpha - 2",
+        "4*alpha + 1"
+      ],
+      [
+        "1",
+        "0",
+        "0"
+      ],
+      [
+        "762*alpha/5 + 237/5",
+        "-1238*alpha/5 - 383/5",
+        "154*alpha + 47"
+      ],
+      [
+        "-444*alpha/5 - 139/5",
+        "716*alpha/5 + 221/5",
+        "-88*alpha - 28"
+      ],
+      [
+        "772*alpha/5 + 237/5",
+        "-1248*alpha/5 - 383/5",
+        "154*alpha + 47"
+      ],
+      [
+        "2*alpha + 1",
+        "-6*alpha - 1",
+        "4*alpha + 1"
+      ],
+      [
+        "0",
+        "1",
+        "0"
+      ],
+      [
+        "4*alpha + 1",
+        "-6*alpha - 1",
+        "2*alpha + 1"
+      ],
+      [
+        "4*alpha + 1",
+        "-8*alpha - 2",
+        "4*alpha + 2"
+      ],
+      [
+        "0",
+        "0",
+        "1"
+      ],
+      [
+        "2*alpha + 1",
+        "-2*alpha - 1",
+        "1"
+      ],
+      [
+        "4*alpha + 2",
+        "-8*alpha - 3",
+        "4*alpha + 2"
+      ],
+      [
+        "1",
+        "-2*alpha - 1",
+        "2*alpha + 1"
+      ],
+      [
+        "762*alpha/5 + 237/5",
+        "-1228*alpha/5 - 383/5",
+        "152*alpha + 47"
+      ],
+      [
+        "-464*alpha/5 - 144/5",
+        "756*alpha/5 + 231/5",
+        "-92*alpha - 29"
+      ],
+      [
+        "-454*alpha/5 - 144/5",
+        "746*alpha/5 + 231/5",
+        "-92*alpha - 29"
+      ],
+      [
+        "762*alpha/5 + 232/5",
+        "-1228*alpha/5 - 378/5",
+        "152*alpha + 47"
+      ],
+      [
+        "-334*alpha - 104",
+        "542*alpha + 167",
+        "-334*alpha - 104"
+      ],
+      [
+        "-444*alpha/5 - 139/5",
+        "726*alpha/5 + 221/5",
+        "-90*alpha - 28"
+      ],
+      [
+        "772*alpha/5 + 237/5",
+        "-1248*alpha/5 - 388/5",
+        "154*alpha + 48"
+      ],
+      [
+        "-454*alpha/5 - 144/5",
+        "736*alpha/5 + 226/5",
+        "-90*alpha - 28"
+      ]
+    ],
+    "center": [
+      "2*alpha + 1",
+      "-4*alpha - 1",
+      "2*alpha + 1"
+    ]
+  }
+}

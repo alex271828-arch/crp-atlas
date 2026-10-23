@@ -1,0 +1,7 @@
+{
+  "source": "/Users/ferleger/Downloads/crp_algebraic_radii_v3.0.11/verify.py",
+  "source_version": "3.0.11",
+  "sha256": "29e937e46792b4d6e66310052a7ed6ce27b14d1885eee7f976940ac0161301ea",
+  "unchanged": true,
+  "purpose": "Exact real-field arithmetic, positive radical arithmetic, interval sign bounds and combinatorial sphere validation"
+}

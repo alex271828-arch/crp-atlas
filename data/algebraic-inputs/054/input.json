@@ -1,0 +1,136 @@
+{
+  "faces": [
+    [
+      0,
+      2,
+      3,
+      4
+    ],
+    [
+      2,
+      1,
+      6,
+      7
+    ],
+    [
+      5,
+      4,
+      3
+    ],
+    [
+      3,
+      2,
+      7
+    ],
+    [
+      5,
+      3,
+      7,
+      6
+    ],
+    [
+      0,
+      1,
+      2
+    ],
+    [
+      6,
+      1,
+      5
+    ],
+    [
+      0,
+      4,
+      5,
+      1
+    ]
+  ],
+  "groups": [
+    [
+      1,
+      2,
+      3,
+      5
+    ],
+    [
+      0,
+      4,
+      6,
+      7
+    ]
+  ],
+  "squared_radii_numeric": [
+    0.49999999990812016,
+    1.0000000000133022
+  ],
+  "positions": [
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.5,
+      1.8375950761040372e-10,
+      -0.8660254037844387
+    ],
+    [
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      1.0000000000000002,
+      0.9999999999999998,
+      0.0
+    ],
+    [
+      3.3306690738754696e-16,
+      1.0,
+      7.771561172376096e-16
+    ],
+    [
+      0.500000000100748,
+      1.0000000000000002,
+      -0.8660254036304179
+    ],
+    [
+      1.250000000065893,
+      0.5000000001771088,
+      -1.299038105600928
+    ],
+    [
+      1.7500000000592422,
+      0.4999999999999996,
+      -0.43301270178960916
+    ]
+  ],
+  "center": [
+    0.750000000052591,
+    0.5,
+    -0.4330127018164891
+  ],
+  "sources": {
+    "faces": {
+      "path": "/Users/ferleger/Downloads/crp_bi_numeric_v3/results/validation-johnson92/026-J26/input.json",
+      "sha256": "aeab7dde184dbca6f0848b04133daeb5c27096873cb967648688400e3766d509"
+    },
+    "bi": {
+      "path": "/Users/ferleger/Downloads/crp_bi_numeric_v3/results/validation-johnson92/026-J26/numerical.json",
+      "sha256": "ff3b55fa6fb0bfdeb8afbf62d2108adc7cd25e7b047fa4df36165bda071334b6"
+    },
+    "partition": {
+      "path": "/Users/ferleger/.codex/.chatgpt-projects/g-p-6aa04372c90481918903cd634fed4dea/outputs/crp-min-spheres-bi-20260914/cases/050-Hf4336a4a960060f.json",
+      "sha256": "17490d97874dae3eda16ce8d7cedba863b6c47de7a1240689cd37f6317caccda"
+    }
+  },
+  "name": "J26 gyrobifastigium",
+  "preflight": {
+    "numerical_only": true,
+    "center_clearance": 0.43301270181264906,
+    "radius_spread": 3.3306690738754696e-16,
+    "face_pair_error": 1.837600072107648e-10,
+    "within_shell_center_rank": 3
+  },
+  "notes": []
+}

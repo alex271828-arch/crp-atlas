@@ -1,0 +1,81 @@
+{
+  "k": 3,
+  "center": [
+    0.5000000000009203,
+    0.2562397881566121,
+    -0.9419763782843745
+  ],
+  "radii": [
+    0.8847861483948976,
+    1.0968036863001294,
+    1.1221220941950194
+  ],
+  "squared_radii": [
+    0.7828465283914777,
+    1.2029783262815525,
+    1.259157994280616
+  ],
+  "groups": [
+    [
+      8,
+      3,
+      4,
+      9
+    ],
+    [
+      10,
+      1,
+      11,
+      0,
+      6,
+      5
+    ],
+    [
+      2,
+      12,
+      13,
+      7
+    ]
+  ],
+  "radius_spreads": [
+    2.9756197506003446e-12,
+    3.9186431877169525e-12,
+    1.0085488000299847e-11
+  ],
+  "max_radius_spread": 1.0085488000299847e-11,
+  "radius_tolerance": 1e-06,
+  "minimum_certified": false,
+  "numerical_candidate_search_finished": true,
+  "completed_candidate_tests_through": 2,
+  "approximate_or_parallel_branches_skipped": 0,
+  "nodes": 87,
+  "seconds": 0.00631604203954339,
+  "decisions": [
+    {
+      "k": 1,
+      "outcome": "no_candidate",
+      "nodes": 4
+    },
+    {
+      "k": 2,
+      "outcome": "no_candidate",
+      "nodes": 40
+    },
+    {
+      "k": 3,
+      "outcome": "witness",
+      "nodes": 43
+    }
+  ],
+  "status": "NUMERICAL_CANDIDATE_RESULT",
+  "note": "Smallest numerical sphere count found; not an exact minimality certificate or a complete thick-shell optimization.",
+  "johnson": 89,
+  "name": "J89 hebesphenomegacorona",
+  "input_file": "numerical.json",
+  "input_sha256": "679752181a46d8547d14884f9b0cfb6e1d85c2211715a905e5a70a089ac8b16f",
+  "vertices": 14,
+  "bi_max_radial_defect": 5.941780401030883e-10,
+  "bi_max_face_pair_error": 6.352987025337598e-10,
+  "stored_center_count_at_1e_7": 3,
+  "unseeded_tolerance_search_sensitive": false
+}

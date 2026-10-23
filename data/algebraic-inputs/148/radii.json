@@ -1,0 +1,76 @@
+{
+  "primitive_symbol": "alpha",
+  "primitive_polynomial": "16*alpha**2 - 20*alpha + 5",
+  "isolating_interval": [
+    "16692641/18454930",
+    "18662940/20633239"
+  ],
+  "groups": [
+    [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    [
+      11,
+      13
+    ],
+    [
+      8,
+      10,
+      12,
+      14
+    ],
+    [
+      9
+    ]
+  ],
+  "squared_radii": [
+    "alpha",
+    "alpha + 1",
+    "13*alpha/5",
+    "29*alpha/5 - 2"
+  ],
+  "radii": [
+    "sqrt(alpha)",
+    "sqrt(alpha + 1)",
+    "sqrt(65)*sqrt(alpha)/5",
+    "sqrt(29*alpha/5 - 2)"
+  ],
+  "Q_factored": "(T-(alpha))*(T-(alpha + 1))*(T-(13*alpha/5))*(T-(29*alpha/5 - 2))",
+  "Q_coefficients": [
+    "1",
+    "1 - 52*alpha/5",
+    "413*alpha/10 - 491/40",
+    "741/40 - 1097*alpha/20",
+    "7527*alpha/320 - 65/8"
+  ],
+  "verification_method": "radial",
+  "auxiliary_assignments": {
+    "y0": "sqrt(12*alpha**2 - 4*alpha)",
+    "y1": "sqrt(2*sqrt(5)*alpha**2 + 10*alpha**2 - 6*alpha - 2*sqrt(5)*alpha)",
+    "y2": "sqrt(12*alpha**2 - 4*alpha)",
+    "y3": "sqrt(16*alpha**2 - 4*alpha)",
+    "y4": "sqrt(-256*alpha**3/25 + 92*alpha**2/5 - 4*alpha)",
+    "y5": "sqrt(-256*alpha**3/25 + 26*sqrt(5)*alpha**2/5 + 98*alpha**2/5 - 6*alpha - 2*sqrt(5)*alpha)",
+    "y6": "sqrt(-256*alpha**3/25 + 124*alpha**2/5 - 4*alpha)",
+    "y7": "sqrt(-256*alpha**3/25 + 124*alpha**2/5 - 4*alpha)",
+    "y8": "sqrt(12*alpha**2 + 8*alpha - 4)",
+    "y9": "sqrt(16*alpha**2 + 12*alpha - 4)",
+    "y10": "sqrt(-256*alpha**3/25 + 364*alpha**2/25 + 104*alpha/5 - 4)",
+    "y11": "sqrt(-256*alpha**3/25 + 784*alpha**2/25 + 188*alpha/5 - 4)",
+    "y12": "sqrt(-3328*alpha**3/125 + 1196*alpha**2/25 - 52*alpha/5)",
+    "y13": "sqrt(-3328*alpha**3/125 + 1612*alpha**2/25 - 52*alpha/5)",
+    "y14": "sqrt(-3328*alpha**3/125 + 1612*alpha**2/25 - 52*alpha/5)",
+    "y15": "sqrt(-19968*alpha**3/125 + 3328*sqrt(5)*alpha**3/125 + 26*sqrt(5)*alpha**2/5 + 6058*alpha**2/25 - 442*alpha/5 - 78*sqrt(5)*alpha/5)",
+    "y16": "sqrt(-3328*alpha**3/125 + 2704*alpha**2/25 - 52*alpha/5)",
+    "y17": "sqrt(-13312*alpha**3/125 + 6188*alpha**2/25 - 364*alpha/5)",
+    "y18": "sqrt(-29696*alpha**3/125 + 15852*alpha**2/25 - 1764*alpha/5 + 56)",
+    "y19": "sqrt(-44544*alpha**3/125 - 14848*sqrt(5)*alpha**3/125 + 4562*sqrt(5)*alpha**2/25 + 682*alpha**2 - 1718*alpha/5 - 418*sqrt(5)*alpha/5 + 12*sqrt(5) + 52)"
+  }
+}

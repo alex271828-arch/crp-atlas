@@ -1,0 +1,136 @@
+{
+  "faces": [
+    [
+      5,
+      1,
+      6
+    ],
+    [
+      0,
+      4,
+      1
+    ],
+    [
+      0,
+      3,
+      4
+    ],
+    [
+      4,
+      3,
+      6
+    ],
+    [
+      0,
+      2,
+      3
+    ],
+    [
+      3,
+      2,
+      5
+    ],
+    [
+      6,
+      3,
+      5
+    ],
+    [
+      6,
+      1,
+      4
+    ],
+    [
+      2,
+      1,
+      5
+    ],
+    [
+      0,
+      1,
+      2
+    ]
+  ],
+  "groups": [
+    [
+      1,
+      3
+    ],
+    [
+      0,
+      2,
+      4,
+      5,
+      6
+    ]
+  ],
+  "squared_radii_numeric": [
+    0.2763932022587351,
+    0.7236067977434364
+  ],
+  "positions": [
+    [
+      1.3090169943609646,
+      -0.17841104487847204,
+      -0.9341723589696862
+    ],
+    [
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.5,
+      -0.6454972243606887,
+      -0.5773502691976913
+    ],
+    [
+      0.4472135954841011,
+      0.31915137945135486,
+      -0.8355491589437589
+    ],
+    [
+      1.3090169943687,
+      0.7557613140725636,
+      -0.5773502691976912
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.5,
+      0.8660254037844386,
+      0.0
+    ]
+  ],
+  "center": [
+    0.7236067977423507,
+    0.15957568972563652,
+    -0.4177745794720936
+  ],
+  "sources": {
+    "faces": {
+      "path": "/Users/ferleger/Downloads/crp_bi_numeric_v3/results/validation-johnson92/013-J13/input.json",
+      "sha256": "3e76d395a2ec5cc26b1760b8500eef71bbdb4c9248b04a1891dd6448223b42ab"
+    },
+    "bi": {
+      "path": "/Users/ferleger/Downloads/crp_bi_numeric_v3/results/validation-johnson92/013-J13/numerical.json",
+      "sha256": "e6bc3ec73e199c1952c1191bb30a41475605800b4d5e16301e09c6a278dcda86"
+    },
+    "partition": {
+      "path": "/Users/ferleger/.codex/.chatgpt-projects/g-p-6aa04372c90481918903cd634fed4dea/outputs/crp-min-spheres-bi-20260914/cases/187-Hbcf7ad1bf1edd0c.json",
+      "sha256": "a23d80a8e9a3f53e85827185a2dcb5b5091a2e99b4c393241aeae50bcd82c798"
+    }
+  },
+  "name": "J13 pentagonal bipyramid",
+  "preflight": {
+    "numerical_only": true,
+    "center_clearance": 0.4177745794708839,
+    "radius_spread": 1.1102230246251565e-16,
+    "face_pair_error": 1.1302181412986556e-11,
+    "within_shell_center_rank": 3
+  },
+  "notes": []
+}

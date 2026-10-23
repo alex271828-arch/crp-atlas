@@ -1,0 +1,81 @@
+{
+  "k": 2,
+  "center": [
+    0.500000000300207,
+    0.2886751346633987,
+    -1.5115226278678566
+  ],
+  "radii": [
+    1.0000000001285643,
+    1.6180339885330055
+  ],
+  "squared_radii": [
+    1.0000000002571285,
+    2.618033988048026
+  ],
+  "groups": [
+    [
+      11,
+      12,
+      4,
+      14,
+      3,
+      13
+    ],
+    [
+      9,
+      6,
+      17,
+      0,
+      15,
+      2,
+      7,
+      1,
+      5,
+      8,
+      16,
+      10
+    ]
+  ],
+  "radius_spreads": [
+    2.1049717524590505e-10,
+    3.355138389338208e-10
+  ],
+  "max_radius_spread": 3.355138389338208e-10,
+  "radius_tolerance": 1e-06,
+  "minimum_certified": false,
+  "numerical_candidate_search_finished": true,
+  "completed_candidate_tests_through": 1,
+  "approximate_or_parallel_branches_skipped": 0,
+  "nodes": 9,
+  "seconds": 0.001277709030546248,
+  "decisions": [
+    {
+      "k": 1,
+      "outcome": "no_candidate",
+      "nodes": 4
+    },
+    {
+      "k": 2,
+      "outcome": "witness",
+      "nodes": 5
+    }
+  ],
+  "status": "NUMERICAL_CANDIDATE_RESULT",
+  "note": "Smallest numerical sphere count found; not an exact minimality certificate or a complete thick-shell optimization.",
+  "johnson": 92,
+  "name": "J92 triangular hebesphenorotunda",
+  "input_file": "/Users/ferleger/Downloads/crp_bi_numeric_v3/results/validation-johnson92/092-J92/numerical.json",
+  "input_sha256": "ac7a0b580091c12a8dcec52fe32b7c60ab2cdbd40ba76fa5b99cdaf9631909d4",
+  "vertices": 18,
+  "bi_max_radial_defect": 4.567279887623954e-10,
+  "bi_max_face_pair_error": 4.203779546685382e-10,
+  "stored_center_count_at_1e_7": 2,
+  "unseeded_tolerance_search_sensitive": false,
+  "analysis_reused": true,
+  "body_class": "Johnson",
+  "cid": "8aa782af884551fde13049e2fdb6fe5e1e30e25d0ab39a3280dc5ea90150aa84",
+  "display_id": "Hcbdc136a5448764",
+  "census_index": 110,
+  "case_file": "cases/110-Hcbdc136a5448764.json"
+}

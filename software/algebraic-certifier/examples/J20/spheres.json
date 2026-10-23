@@ -1,0 +1,83 @@
+{
+  "k": 2,
+  "center": [
+    0.499999999999976,
+    0.49999999999984424,
+    -1.5388417685870597
+  ],
+  "radii": [
+    1.3325656126877174,
+    1.6935270853305524
+  ],
+  "squared_radii": [
+    1.7757311121177919,
+    2.8680339887481963
+  ],
+  "groups": [
+    [
+      21,
+      20,
+      22,
+      23,
+      24
+    ],
+    [
+      3,
+      11,
+      10,
+      4,
+      14,
+      9,
+      8,
+      12,
+      19,
+      16,
+      15,
+      18,
+      1,
+      7,
+      17,
+      6,
+      0,
+      13,
+      5,
+      2
+    ]
+  ],
+  "radius_spreads": [
+    3.468336728928989e-13,
+    2.0672352718520415e-13
+  ],
+  "max_radius_spread": 3.468336728928989e-13,
+  "radius_tolerance": 1e-06,
+  "minimum_certified": false,
+  "numerical_candidate_search_finished": true,
+  "completed_candidate_tests_through": 1,
+  "approximate_or_parallel_branches_skipped": 0,
+  "nodes": 4,
+  "seconds": 0.0006959170568734407,
+  "decisions": [
+    {
+      "k": 1,
+      "outcome": "no_candidate",
+      "nodes": 4
+    }
+  ],
+  "status": "NUMERICAL_CANDIDATE_RESULT",
+  "note": "Smallest numerical sphere count found; not an exact minimality certificate or a complete thick-shell optimization.",
+  "johnson": 20,
+  "name": "J20 elongated pentagonal cupola",
+  "input_file": "/Users/ferleger/Downloads/crp_bi_numeric_v3/results/validation-johnson92/020-J20/numerical.json",
+  "input_sha256": "a134b9ae0347f693af1418b6d07a46fb20897f09c158eac38363e77a26c0958a",
+  "vertices": 25,
+  "bi_max_radial_defect": 6.696865284538944e-13,
+  "bi_max_face_pair_error": 3.1019631308026874e-12,
+  "stored_center_count_at_1e_7": 2,
+  "unseeded_tolerance_search_sensitive": false,
+  "analysis_reused": true,
+  "body_class": "Johnson",
+  "cid": "5f314723a46f883c67d85178cf881eb8211082fae30585bc3741c7c69dbb005d",
+  "display_id": "H7d812ecec3a504a",
+  "census_index": 206,
+  "case_file": "cases/206-H7d812ecec3a504a.json"
+}

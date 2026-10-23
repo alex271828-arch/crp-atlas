@@ -1,0 +1,13 @@
+{
+  "format_version": 1,
+  "corrections": [
+    {
+      "source_sha256": "a2ba82b687632573e98f1c25f199d64f7283223d98623afecf3338e03d3b1923",
+      "partition": "066-H97350c77009d16a.json",
+      "replacement_sha256": "496d9c8cdc271dd12d41190298679fb590e9b656cc804c7c143bb39e8eec9d5c",
+      "bi_sha256": "de22748eb5dafbf8fa2bea999381874c3729c1f3115035232fd9d9d7974886d5",
+      "faces_sha256": "24ea7e251d47566e6617d5d714785a06e11c33c0b81a6d0522b9678587fbeb4a",
+      "reason": "Use the verified positive-radius cover instead of the old zero-radius singleton cover."
+    }
+  ]
+}

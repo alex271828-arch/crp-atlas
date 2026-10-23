@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+software/bi-certifier/build/
+software/bi-certifier/metric_probe
+software/bi-certifier/gradient_check
+verification-results/

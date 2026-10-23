@@ -1,0 +1,124 @@
+{
+  "faces": [
+    [
+      0,
+      2,
+      3,
+      4
+    ],
+    [
+      6,
+      3,
+      5
+    ],
+    [
+      6,
+      4,
+      3
+    ],
+    [
+      2,
+      1,
+      5,
+      3
+    ],
+    [
+      0,
+      1,
+      2
+    ],
+    [
+      5,
+      4,
+      6
+    ],
+    [
+      0,
+      4,
+      5,
+      1
+    ]
+  ],
+  "groups": [
+    [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    [
+      6
+    ]
+  ],
+  "squared_radii_numeric": [
+    0.583333333341709,
+    1.7331632476229963
+  ],
+  "positions": [
+    [
+      1.0000000000000018,
+      0.9999999999999998,
+      0.0
+    ],
+    [
+      0.5000000000048411,
+      0.9999999999927622,
+      -0.8660254038097168
+    ],
+    [
+      1.887379141862766e-15,
+      1.0000000000044802,
+      -1.0950351736482844e-11
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      1.0000000000000007,
+      0.0,
+      0.0
+    ],
+    [
+      0.5000000000079824,
+      -2.714202436063615e-11,
+      -0.8660254037870392
+    ],
+    [
+      0.5000000000000004,
+      -0.8164965809402625,
+      -0.2886751345593538
+    ]
+  ],
+  "center": [
+    0.5000000000004614,
+    0.49999999999832717,
+    -0.28867513461011746
+  ],
+  "sources": {
+    "faces": {
+      "path": "/Users/ferleger/Downloads/crp_bi_numeric_v3/results/validation-johnson92/007-J7/input.json",
+      "sha256": "d27fffff7c2fdd1eb6a227401852d43c92326c6e7ff309dfb5627b124c33be87"
+    },
+    "bi": {
+      "path": "/Users/ferleger/Downloads/crp_bi_numeric_v3/results/validation-johnson92/007-J7/numerical.json",
+      "sha256": "bffe13487a2f5e22bdfb503282056613157a88448b36bfa9b34e72d190824b75"
+    },
+    "partition": {
+      "path": "/Users/ferleger/.codex/.chatgpt-projects/g-p-6aa04372c90481918903cd634fed4dea/outputs/crp-min-spheres-bi-20260914/cases/042-H23c8ccb7cdb6ea8.json",
+      "sha256": "77d462fb43f8d8ff17cc866733bfe670bd6a5de4692ad1213114e9774d35e502"
+    }
+  },
+  "name": "J7 elongated triangular pyramid",
+  "preflight": {
+    "numerical_only": true,
+    "center_clearance": 0.2886751345874906,
+    "radius_spread": 3.1739055827983975e-12,
+    "face_pair_error": 2.0068613437729255e-11,
+    "within_shell_center_rank": 3
+  },
+  "notes": []
+}

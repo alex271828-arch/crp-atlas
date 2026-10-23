@@ -1,0 +1,6 @@
+{
+  "note": "Existing BI coordinates and numerical sphere groups only; no exact answer supplied to the solver.",
+  "bi_directory": "/Users/ferleger/Downloads/crp_bi_numeric_v3/results/validation-johnson92/020-J20",
+  "partition": "/Users/ferleger/.codex/.chatgpt-projects/g-p-6aa04372c90481918903cd634fed4dea/outputs/crp-min-spheres-bi-20260914/cases/206-H7d812ecec3a504a.json",
+  "numerical_sha256": "a134b9ae0347f693af1418b6d07a46fb20897f09c158eac38363e77a26c0958a"
+}

@@ -1,0 +1,148 @@
+{
+  "faces": [
+    [
+      3,
+      2,
+      6
+    ],
+    [
+      0,
+      4,
+      1
+    ],
+    [
+      0,
+      3,
+      4
+    ],
+    [
+      0,
+      2,
+      3
+    ],
+    [
+      4,
+      3,
+      7
+    ],
+    [
+      5,
+      4,
+      7
+    ],
+    [
+      5,
+      1,
+      4
+    ],
+    [
+      0,
+      1,
+      2
+    ],
+    [
+      2,
+      1,
+      5,
+      6
+    ],
+    [
+      7,
+      3,
+      6
+    ],
+    [
+      6,
+      5,
+      7
+    ]
+  ],
+  "groups": [
+    [
+      3,
+      4
+    ],
+    [
+      0,
+      1,
+      2,
+      5,
+      6,
+      7
+    ]
+  ],
+  "squared_radii_numeric": [
+    0.3510205144351994,
+    0.8005102572168173
+  ],
+  "positions": [
+    [
+      0.5,
+      -0.7071067811861188,
+      -0.5000000000006062
+    ],
+    [
+      1.0000000000009746,
+      4.4279337141350794e-13,
+      -1.000000000000948
+    ],
+    [
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      -3.950839655431082e-13,
+      1.4666046155298318e-13,
+      -1.0000000000015858
+    ],
+    [
+      0.5000000000021378,
+      0.8660254037856733,
+      -0.9999999999999997
+    ],
+    [
+      0.5,
+      0.8660254037844386,
+      0.0
+    ],
+    [
+      -0.36237243569508193,
+      0.7865660924857759,
+      -0.5000000000012739
+    ]
+  ],
+  "center": [
+    0.27525512860921186,
+    0.15891862259863473,
+    -0.5000000000011099
+  ],
+  "sources": {
+    "faces": {
+      "path": "/Users/ferleger/Downloads/crp_bi_numeric_v3/results/validation-johnson92/050-J50/input.json",
+      "sha256": "802b7bb7432a839b4ef818b98b30a2b3e5f9b57356b5c3d970683076facba7fa"
+    },
+    "bi": {
+      "path": "/Users/ferleger/Downloads/crp_bi_numeric_v3/results/validation-johnson92/050-J50/numerical.json",
+      "sha256": "2d2f70f93fd3e55f64f847f22b450069048cd6736a00b46c45348110dc306c74"
+    },
+    "partition": {
+      "path": "/Users/ferleger/.codex/.chatgpt-projects/g-p-6aa04372c90481918903cd634fed4dea/outputs/crp-min-spheres-bi-20260914/cases/182-H48491060ef18b21.json",
+      "sha256": "83b5cbce618eac3fc89edbc7bfe0e11cffdc41fcc4bc7bc570dd0db32163a596"
+    }
+  },
+  "name": "J50 biaugmented triangular prism",
+  "preflight": {
+    "numerical_only": true,
+    "center_clearance": 0.3164965809288826,
+    "radius_spread": 3.907985046680551e-13,
+    "face_pair_error": 2.2086776851892864e-12,
+    "within_shell_center_rank": 3
+  },
+  "notes": []
+}

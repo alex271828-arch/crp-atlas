@@ -1,0 +1,143 @@
+{
+  "faces": [
+    [
+      6,
+      8,
+      7
+    ],
+    [
+      0,
+      2,
+      3,
+      4
+    ],
+    [
+      5,
+      3,
+      8,
+      6
+    ],
+    [
+      0,
+      4,
+      5,
+      6,
+      7,
+      1
+    ],
+    [
+      5,
+      4,
+      3
+    ],
+    [
+      3,
+      2,
+      8
+    ],
+    [
+      0,
+      1,
+      2
+    ],
+    [
+      2,
+      1,
+      7,
+      8
+    ]
+  ],
+  "groups": [
+    [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  ],
+  "squared_radii_numeric": [
+    0.999999999999998
+  ],
+  "positions": [
+    [
+      1.000000000000005,
+      0.5773502691896236,
+      -1.6329931618554485
+    ],
+    [
+      1.0000000000000007,
+      1.15470053837925,
+      -0.8164965809277263
+    ],
+    [
+      1.499999999999998,
+      0.28867513459481137,
+      -0.8164965809277275
+    ],
+    [
+      0.999999999999997,
+      -0.5773502691896252,
+      -0.8164965809277254
+    ],
+    [
+      0.5000000000000028,
+      -0.2886751345948096,
+      -1.6329931618554514
+    ],
+    [
+      -2.0029918661932235e-18,
+      -0.5773502691896237,
+      -0.8164965809277277
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.5,
+      0.8660254037844386,
+      0.0
+    ],
+    [
+      1.0,
+      0.0,
+      0.0
+    ]
+  ],
+  "center": [
+    0.49999999999999956,
+    0.28867513459481364,
+    -0.816496580927725
+  ],
+  "sources": {
+    "faces": {
+      "path": "/Users/ferleger/Downloads/crp_bi_numeric_v3/results/validation-johnson92/003-J3/input.json",
+      "sha256": "fbf2c58f41709a135db5603f23328bedf1b0cda851e3a8ac415b215413361f02"
+    },
+    "bi": {
+      "path": "/Users/ferleger/Downloads/crp_bi_numeric_v3/results/validation-johnson92/003-J3/numerical.json",
+      "sha256": "0726db2d54bbd4cdbdf22cfb1b79bd78e5f9133ade0b85e66435f962e1482531"
+    },
+    "partition": {
+      "path": "/Users/ferleger/.codex/.chatgpt-projects/g-p-6aa04372c90481918903cd634fed4dea/outputs/crp-min-spheres-bi-20260914/cases/059-H282c695a330d568.json",
+      "sha256": "394512fc0472cbaa0289b646cba0c297def6a83153116d1cbf416d4ae3d08a7d"
+    }
+  },
+  "name": "J3 triangular cupola",
+  "preflight": {
+    "numerical_only": true,
+    "center_clearance": -4.274358644806853e-15,
+    "radius_spread": 1.4432899320127035e-15,
+    "face_pair_error": 7.993605777301127e-15,
+    "within_shell_center_rank": 3
+  },
+  "notes": [
+    "Using exact metric geometry for a sphere center that is not numerically strictly interior"
+  ]
+}

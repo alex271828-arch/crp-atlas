@@ -1,0 +1,68 @@
+{
+  "k": 2,
+  "center": [
+    0.49999999999999994,
+    -0.027809048176246774,
+    -0.8410574506881549
+  ],
+  "radii": [
+    0.9788518675052558,
+    1.2273213364355386
+  ],
+  "squared_radii": [
+    0.9581509785185268,
+    1.5063176628699166
+  ],
+  "groups": [
+    [
+      10,
+      1,
+      6,
+      11,
+      12,
+      2,
+      4,
+      7
+    ],
+    [
+      13,
+      0,
+      3,
+      5,
+      8,
+      14,
+      15,
+      9
+    ]
+  ],
+  "radius_spreads": [
+    3.3306690738754696e-16,
+    4.440892098500626e-16
+  ],
+  "max_radius_spread": 4.440892098500626e-16,
+  "radius_tolerance": 1e-06,
+  "minimum_certified": false,
+  "numerical_candidate_search_finished": true,
+  "completed_candidate_tests_through": 1,
+  "approximate_or_parallel_branches_skipped": 0,
+  "nodes": 4,
+  "seconds": 0.000774832908064127,
+  "decisions": [
+    {
+      "k": 1,
+      "outcome": "no_candidate",
+      "nodes": 4
+    }
+  ],
+  "status": "NUMERICAL_CANDIDATE_RESULT",
+  "note": "Smallest numerical sphere count found; not an exact minimality certificate or a complete thick-shell optimization.",
+  "johnson": 85,
+  "name": "J85 snub square antiprism",
+  "input_file": "numerical.json",
+  "input_sha256": "b839490625b30d5891b7221b7eecd480059bfe80d858dd7d72d2d77f1e3a226c",
+  "vertices": 16,
+  "bi_max_radial_defect": 2.2737367544323206e-13,
+  "bi_max_face_pair_error": 1.8074430840897548e-13,
+  "stored_center_count_at_1e_7": 2,
+  "unseeded_tolerance_search_sensitive": false
+}

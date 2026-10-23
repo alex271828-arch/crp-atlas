@@ -1,0 +1,118 @@
+{
+  "faces": [
+    [
+      0,
+      3,
+      4,
+      1
+    ],
+    [
+      4,
+      2,
+      5
+    ],
+    [
+      5,
+      1,
+      4
+    ],
+    [
+      3,
+      2,
+      4
+    ],
+    [
+      2,
+      1,
+      5
+    ],
+    [
+      0,
+      1,
+      2
+    ],
+    [
+      0,
+      2,
+      3
+    ]
+  ],
+  "groups": [
+    [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    [
+      5
+    ]
+  ],
+  "squared_radii_numeric": [
+    0.4999999999999994,
+    1.5000000000000024
+  ],
+  "positions": [
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      2.4424906541753444e-15,
+      0.9999999999999998,
+      5.9396931817445875e-15
+    ],
+    [
+      0.49999999999999734,
+      0.500000000000003,
+      -0.7071067811865431
+    ],
+    [
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      1.0000000000000002,
+      0.9999999999999998,
+      0.0
+    ],
+    [
+      0.49999999999999883,
+      1.5000000000000009,
+      -0.7071067811865431
+    ]
+  ],
+  "center": [
+    0.5000000000000007,
+    0.49999999999999933,
+    3.969047313034935e-15
+  ],
+  "sources": {
+    "faces": {
+      "path": "/Users/ferleger/Downloads/crp_bi_numeric_v2/results/census-20260913-031248/039-f70a2f5cff0c93c59774b97ebbe8ae41cdde5711fc147498e4fd1bfa769467b1/input.json",
+      "sha256": "91aacb592004aecf625c78b03dc0fe121fb64fb0ac066500df6459204c220b09"
+    },
+    "bi": {
+      "path": "/Users/ferleger/Downloads/crp_bi_numeric_v2/results/census-20260913-031248/039-f70a2f5cff0c93c59774b97ebbe8ae41cdde5711fc147498e4fd1bfa769467b1/numerical.json",
+      "sha256": "6ee50c55aab2de103244f829eb5cdd9481f6a35a6497ab75f95d2dc9a1f71e26"
+    },
+    "partition": {
+      "path": "/Users/ferleger/.codex/.chatgpt-projects/g-p-6aa04372c90481918903cd634fed4dea/outputs/crp-min-spheres-bi-20260914/cases/039-H9c8156e37aaad40.json",
+      "sha256": "edaba0fe245dba6d7587d845418a80d3a3ac0a1eb7b554b6421b57444b976f0c"
+    }
+  },
+  "name": "CRP0-H9c8156e37aaad40",
+  "preflight": {
+    "numerical_only": true,
+    "center_clearance": -3.969047313034935e-15,
+    "radius_spread": 9.992007221626409e-16,
+    "face_pair_error": 3.3306690738754696e-15,
+    "within_shell_center_rank": 3
+  },
+  "notes": [
+    "Using exact metric geometry for a sphere center that is not numerically strictly interior"
+  ]
+}

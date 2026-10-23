@@ -1,0 +1,49 @@
+{
+  "primitive_symbol": "alpha",
+  "primitive_polynomial": "32*alpha**3 - 32*alpha**2 + 12*alpha - 1",
+  "isolating_interval": [
+    "1886135/16533768",
+    "1515387/13283809"
+  ],
+  "groups": [
+    [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ]
+  ],
+  "squared_radii": [
+    "8*alpha**2 - 7*alpha + 5/2"
+  ],
+  "radii": [
+    "sqrt(8*alpha**2 - 7*alpha + 5/2)"
+  ],
+  "Q_factored": "(T-(8*alpha**2 - 7*alpha + 5/2))",
+  "Q_coefficients": [
+    "1",
+    "-8*alpha**2 + 7*alpha - 5/2"
+  ],
+  "verification_method": "radial",
+  "auxiliary_assignments": {}
+}

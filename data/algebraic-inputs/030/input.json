@@ -1,0 +1,111 @@
+{
+  "faces": [
+    [
+      4,
+      2,
+      5
+    ],
+    [
+      3,
+      2,
+      4
+    ],
+    [
+      2,
+      1,
+      5
+    ],
+    [
+      0,
+      1,
+      2
+    ],
+    [
+      0,
+      2,
+      3
+    ],
+    [
+      0,
+      3,
+      4,
+      5,
+      1
+    ]
+  ],
+  "groups": [
+    [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  ],
+  "squared_radii_numeric": [
+    0.9045084971321771
+  ],
+  "positions": [
+    [
+      1.3090169943532326,
+      -0.17841104487400816,
+      -0.9341723589695826
+    ],
+    [
+      1.3090169943542365,
+      0.7557613140642131,
+      -0.5773502692163639
+    ],
+    [
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.5,
+      -0.6454972243439896,
+      -0.5773502692163619
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.5,
+      0.8660254037844386,
+      0.0
+    ]
+  ],
+  "center": [
+    0.5000000000026776,
+    0.2886751345932658,
+    -0.7557613140419497
+  ],
+  "sources": {
+    "faces": {
+      "path": "/Users/ferleger/Downloads/crp_bi_numeric_v3/results/validation-johnson92/002-J2/input.json",
+      "sha256": "d2aefd459b6be76093a96d027c4d630f51d4a38c2fd8560d94ca09401cc69c37"
+    },
+    "bi": {
+      "path": "/Users/ferleger/Downloads/crp_bi_numeric_v3/results/validation-johnson92/002-J2/numerical.json",
+      "sha256": "fb9ff48f2b3861dea272e6debeaaf97efe49b7ba59cd9adcbcd693882a8c357c"
+    },
+    "partition": {
+      "path": "/Users/ferleger/.codex/.chatgpt-projects/g-p-6aa04372c90481918903cd634fed4dea/outputs/crp-min-spheres-bi-20260914/cases/041-H1a8c71598c04671.json",
+      "sha256": "e54e356277ab9d17c957bbf45ea312a66adb70616a01c52c5ae92fa22c3f713f"
+    }
+  },
+  "name": "J2 pentagonal pyramid",
+  "preflight": {
+    "numerical_only": true,
+    "center_clearance": -0.4253254041447334,
+    "radius_spread": 1.64852576034491e-11,
+    "face_pair_error": 4.1420422647320265e-11,
+    "within_shell_center_rank": 3
+  },
+  "notes": [
+    "Using exact metric geometry for a sphere center that is not numerically strictly interior"
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "faces": [
+    [
+      5,
+      1,
+      6
+    ],
+    [
+      0,
+      4,
+      1
+    ],
+    [
+      0,
+      3,
+      4
+    ],
+    [
+      6,
+      7,
+      5
+    ],
+    [
+      0,
+      2,
+      3
+    ],
+    [
+      6,
+      1,
+      4
+    ],
+    [
+      4,
+      3,
+      7
+    ],
+    [
+      7,
+      2,
+      5
+    ],
+    [
+      2,
+      1,
+      5
+    ],
+    [
+      0,
+      1,
+      2
+    ],
+    [
+      3,
+      2,
+      7
+    ],
+    [
+      6,
+      4,
+      7
+    ]
+  ],
+  "groups": [
+    [
+      1,
+      2,
+      4,
+      7
+    ],
+    [
+      0,
+      3,
+      5,
+      6
+    ]
+  ],
+  "squared_radii_numeric": [
+    0.4577444426005669,
+    0.8645476937632427
+  ],
+  "positions": [
+    [
+      1.479095387688421,
+      -0.27660585104941804,
+      -0.8330407028836637
+    ],
+    [
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.5000000000000011,
+      -0.45562667263668394,
+      -0.7364810487595881
+    ],
+    [
+      0.8345111145074466,
+      0.09554505258701647,
+      -1.5008841120163123
+    ],
+    [
+      1.1445842731451448,
+      0.6608260382105603,
+      -0.7364810487595884
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.5,
+      0.8660254037844386,
+      0.0
+    ],
+    [
+      0.16902222938947548,
+      0.479765239552581,
+      -0.8609627174317481
+    ]
+  ],
+  "center": [
+    0.7034016255813379,
+    0.17124115131181994,
+    -0.5834812036305681
+  ],
+  "sources": {
+    "faces": {
+      "path": "/Users/ferleger/Downloads/crp_bi_numeric_v3/results/validation-johnson92/084-J84/input.json",
+      "sha256": "591a0b6a2ea046ab5eccd359477273a56cb41aa5bb35796a801f1c9ef3ae0ebd"
+    },
+    "bi": {
+      "path": "/Users/ferleger/Downloads/crp_bi_numeric_v3/results/validation-johnson92/084-J84/numerical.json",
+      "sha256": "8ddbac519f7d599eb944c7c8fdeed217e43f9500698fedaa861182f7012f31d6"
+    },
+    "partition": {
+      "path": "/Users/ferleger/.codex/.chatgpt-projects/g-p-6aa04372c90481918903cd634fed4dea/outputs/crp-min-spheres-bi-20260914/cases/186-Hc912c6bf332e2ab.json",
+      "sha256": "73fe85ce84284d6164c8e3a9677ab615046b371abf801a9102cd04db473ab295"
+    }
+  },
+  "name": "J84 snub disphenoid",
+  "preflight": {
+    "numerical_only": true,
+    "center_clearance": 0.45260273007272606,
+    "radius_spread": 2.220446049250313e-16,
+    "face_pair_error": 2.8421121012200956e-10,
+    "within_shell_center_rank": 3
+  },
+  "notes": []
+}

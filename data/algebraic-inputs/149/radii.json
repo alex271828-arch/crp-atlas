@@ -1,0 +1,83 @@
+{
+  "primitive_symbol": "alpha",
+  "primitive_polynomial": "16*alpha**2 - 20*alpha + 5",
+  "isolating_interval": [
+    "16692641/18454930",
+    "18662940/20633239"
+  ],
+  "groups": [
+    [
+      3,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    [
+      1,
+      2,
+      4,
+      6
+    ],
+    [
+      0,
+      5
+    ]
+  ],
+  "squared_radii": [
+    "alpha",
+    "alpha + 1",
+    "5*alpha - 1"
+  ],
+  "radii": [
+    "sqrt(alpha)",
+    "sqrt(alpha + 1)",
+    "sqrt(5*alpha - 1)"
+  ],
+  "Q_factored": "(T-(alpha))*(T-(alpha + 1))*(T-(5*alpha - 1))",
+  "Q_coefficients": [
+    "1",
+    "-7*alpha",
+    "71*alpha/4 - 71/16",
+    "205/64 - 41*alpha/4"
+  ],
+  "verification_method": "radial",
+  "auxiliary_assignments": {
+    "y0": "sqrt(12*alpha**2 - 4*alpha)",
+    "y1": "sqrt(2*sqrt(5)*alpha**2 + 10*alpha**2 - 6*alpha - 2*sqrt(5)*alpha)",
+    "y2": "sqrt(12*alpha**2 - 4*alpha)",
+    "y3": "sqrt(16*alpha**2 - 4*alpha)",
+    "y4": "sqrt(2*sqrt(5)*alpha**2 + 10*alpha**2)",
+    "y5": "sqrt(12*alpha**2 + 8*alpha - 4)",
+    "y6": "sqrt(16*alpha**2 + 12*alpha - 4)",
+    "y7": "sqrt(-64*alpha**3 + 26*alpha**2 + 18*sqrt(5)*alpha**2 + 8*sqrt(5)*alpha + 60*alpha - 30 - 10*sqrt(5))",
+    "y8": "sqrt(-64*alpha**3 + 28*alpha**2 + 76*alpha - 16)",
+    "y9": "sqrt(-320*alpha**3 + 524*alpha**2 - 172*alpha + 16)",
+    "y10": "sqrt(-320*alpha**3 + 10*sqrt(5)*alpha**2 + 514*alpha**2 - 190*alpha - 2*sqrt(5)*alpha + 20)"
+  },
+  "presentation_hints": {
+    "squared_radii": [
+      "alpha",
+      "alpha + 1",
+      "5*alpha - 1"
+    ],
+    "auxiliary_assignments": {
+      "y0": "sqrt(12*alpha**2 - 4*alpha)",
+      "y1": "sqrt(2*sqrt(5)*alpha**2 + 10*alpha**2 - 6*alpha - 2*sqrt(5)*alpha)",
+      "y2": "sqrt(12*alpha**2 - 4*alpha)",
+      "y3": "sqrt(16*alpha**2 - 4*alpha)",
+      "y4": "sqrt(2*sqrt(5)*alpha**2 + 10*alpha**2)",
+      "y5": "sqrt(12*alpha**2 + 8*alpha - 4)",
+      "y6": "sqrt(16*alpha**2 + 12*alpha - 4)",
+      "y7": "sqrt(-64*alpha**3 + 26*alpha**2 + 18*sqrt(5)*alpha**2 + 8*sqrt(5)*alpha + 60*alpha - 30 - 10*sqrt(5))",
+      "y8": "sqrt(-64*alpha**3 + 28*alpha**2 + 76*alpha - 16)",
+      "y9": "sqrt(-320*alpha**3 + 524*alpha**2 - 172*alpha + 16)",
+      "y10": "sqrt(-320*alpha**3 + 10*sqrt(5)*alpha**2 + 514*alpha**2 - 190*alpha - 2*sqrt(5)*alpha + 20)"
+    },
+    "search_route": "local_radius"
+  }
+}

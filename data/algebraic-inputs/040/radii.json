@@ -1,0 +1,39 @@
+{
+  "primitive_symbol": "alpha",
+  "primitive_polynomial": "alpha",
+  "isolating_interval": [
+    "0",
+    "0"
+  ],
+  "groups": [
+    [
+      0,
+      1,
+      2,
+      3
+    ],
+    [
+      4
+    ]
+  ],
+  "squared_radii": [
+    "3/8",
+    "25/24"
+  ],
+  "radii": [
+    "sqrt(6)/4",
+    "5*sqrt(6)/12"
+  ],
+  "Q_factored": "(T-(3/8))*(T-(25/24))",
+  "Q_coefficients": [
+    "1",
+    "-17/12",
+    "25/64"
+  ],
+  "verification_method": "radial",
+  "auxiliary_assignments": {
+    "y0": "sqrt(3)/4",
+    "y1": "5*sqrt(3)/12",
+    "y2": "25*sqrt(3)/36"
+  }
+}

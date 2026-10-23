@@ -1,0 +1,99 @@
+{
+  "faces": [
+    [
+      0,
+      3,
+      4,
+      1
+    ],
+    [
+      3,
+      2,
+      4
+    ],
+    [
+      0,
+      1,
+      2
+    ],
+    [
+      0,
+      2,
+      3
+    ],
+    [
+      2,
+      1,
+      4
+    ]
+  ],
+  "groups": [
+    [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  ],
+  "squared_radii_numeric": [
+    0.5000000000016915
+  ],
+  "positions": [
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      -3.3829605783353145e-12,
+      1.0000000000033833,
+      -2.7281507132339814e-11
+    ],
+    [
+      0.5000000000119309,
+      0.499999999988069,
+      -0.7071067812034205
+    ],
+    [
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      1.0000000000000002,
+      0.9999999999999998,
+      0.0
+    ]
+  ],
+  "center": [
+    0.4999999999983084,
+    0.5000000000016915,
+    -1.5676959730370754e-11
+  ],
+  "sources": {
+    "faces": {
+      "path": "/Users/ferleger/Downloads/crp_bi_numeric_v3/results/validation-johnson92/001-J1/input.json",
+      "sha256": "20cdb54ea710df3a65a84e21a5fe0865afa8d665e0b912e9c930a84396aeb80b"
+    },
+    "bi": {
+      "path": "/Users/ferleger/Downloads/crp_bi_numeric_v3/results/validation-johnson92/001-J1/numerical.json",
+      "sha256": "1971e9d76afe20b5bc5796261298fb310cb46b77e170bc9f7306fdafded2a99e"
+    },
+    "partition": {
+      "path": "/Users/ferleger/.codex/.chatgpt-projects/g-p-6aa04372c90481918903cd634fed4dea/outputs/crp-min-spheres-bi-20260914/cases/040-H51c7c772e2d01cc.json",
+      "sha256": "90b4a7551020a27c231115563a3ee916b1385007836899049e69fe98390ee6ac"
+    }
+  },
+  "name": "J1 square pyramid",
+  "preflight": {
+    "numerical_only": true,
+    "center_clearance": 1.5676959730370754e-11,
+    "radius_spread": 2.3923085734622873e-12,
+    "face_pair_error": 1.1931122756436707e-11,
+    "within_shell_center_rank": 3
+  },
+  "notes": [
+    "Using exact metric geometry for a sphere center that is not numerically strictly interior"
+  ]
+}

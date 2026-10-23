@@ -1,0 +1,70 @@
+{
+  "primitive_symbol": "alpha",
+  "primitive_polynomial": "16*alpha**2 - 56*alpha + 17",
+  "isolating_interval": [
+    "105188752/33243253",
+    "25304893/7997214"
+  ],
+  "groups": [
+    [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      16,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      30,
+      31
+    ],
+    [
+      14,
+      15,
+      17,
+      18,
+      26,
+      27,
+      28,
+      29
+    ]
+  ],
+  "squared_radii": [
+    "alpha",
+    "alpha + 1"
+  ],
+  "radii": [
+    "sqrt(alpha)",
+    "sqrt(alpha + 1)"
+  ],
+  "Q_factored": "(T-(alpha))*(T-(alpha + 1))",
+  "Q_coefficients": [
+    "1",
+    "-2*alpha - 1",
+    "9*alpha/2 - 17/16"
+  ],
+  "verification_method": "radial",
+  "auxiliary_assignments": {
+    "y0": "sqrt(12*alpha**2 - 4*alpha)",
+    "y1": "sqrt(8*alpha**2 - 8*alpha - 4*sqrt(2)*alpha)",
+    "y2": "sqrt(12*alpha**2 - 4*alpha)",
+    "y3": "sqrt(16*alpha**2 - 4*alpha)",
+    "y4": "sqrt(12*alpha**2 + 8*alpha - 4)",
+    "y5": "sqrt(16*alpha**2 + 12*alpha - 4)",
+    "y6": "sqrt(16*alpha**2 + 24*alpha + 8)"
+  }
+}

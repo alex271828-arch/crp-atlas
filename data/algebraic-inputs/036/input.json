@@ -1,0 +1,148 @@
+{
+  "faces": [
+    [
+      7,
+      6,
+      8
+    ],
+    [
+      5,
+      4,
+      8
+    ],
+    [
+      2,
+      1,
+      6,
+      7
+    ],
+    [
+      0,
+      5,
+      6,
+      1
+    ],
+    [
+      0,
+      1,
+      2,
+      3
+    ],
+    [
+      8,
+      4,
+      7
+    ],
+    [
+      0,
+      3,
+      4,
+      5
+    ],
+    [
+      6,
+      5,
+      8
+    ],
+    [
+      3,
+      2,
+      7,
+      4
+    ]
+  ],
+  "groups": [
+    [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "squared_radii_numeric": [
+    0.749999999999999,
+    1.457106781186549
+  ],
+  "positions": [
+    [
+      1.0,
+      -0.2391463117381026,
+      -1.39384685011735
+    ],
+    [
+      1.0,
+      -0.8164965809277268,
+      -0.5773502691896244
+    ],
+    [
+      -5.699173742153585e-17,
+      -0.8164965809277266,
+      -0.5773502691896246
+    ],
+    [
+      2.3869795029440866e-15,
+      -0.23914631173810244,
+      -1.3938468501173515
+    ],
+    [
+      4.551914400963141e-16,
+      0.5773502691896235,
+      -0.8164965809277256
+    ],
+    [
+      0.999999999999998,
+      0.5773502691896246,
+      -0.8164965809277269
+    ],
+    [
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.5,
+      0.8660254037844386,
+      0.0
+    ]
+  ],
+  "center": [
+    0.5000000000000001,
+    -0.11957315586905179,
+    -0.6969234250586749
+  ],
+  "sources": {
+    "faces": {
+      "path": "/Users/ferleger/Downloads/crp_bi_numeric_v3/results/validation-johnson92/008-J8/input.json",
+      "sha256": "9fccd7a2b40f392febce4718d9b6b3c05ebdb2b2d79a207bbc9aa9ee53aca86c"
+    },
+    "bi": {
+      "path": "/Users/ferleger/Downloads/crp_bi_numeric_v3/results/validation-johnson92/008-J8/numerical.json",
+      "sha256": "e7ccdb6fce3a159a0ca5f723b084bed74a43bd89558f97d25195976956834949"
+    },
+    "partition": {
+      "path": "/Users/ferleger/.codex/.chatgpt-projects/g-p-6aa04372c90481918903cd634fed4dea/outputs/crp-min-spheres-bi-20260914/cases/057-H221fa4218ff02d6.json",
+      "sha256": "a81149cd30ac9ecccf0bc48511b6f890c8dbe087878bcca8e7847728686df51b"
+    }
+  },
+  "name": "J8 elongated square pyramid",
+  "preflight": {
+    "numerical_only": true,
+    "center_clearance": 0.49999999999999883,
+    "radius_spread": 2.220446049250313e-16,
+    "face_pair_error": 3.1086244689504383e-15,
+    "within_shell_center_rank": 3
+  },
+  "notes": []
+}

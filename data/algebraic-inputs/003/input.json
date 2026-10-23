@@ -1,0 +1,117 @@
+{
+  "faces": [
+    [
+      0,
+      3,
+      4
+    ],
+    [
+      5,
+      1,
+      4
+    ],
+    [
+      4,
+      3,
+      5
+    ],
+    [
+      0,
+      4,
+      1
+    ],
+    [
+      0,
+      1,
+      2
+    ],
+    [
+      0,
+      2,
+      3
+    ],
+    [
+      2,
+      1,
+      5
+    ],
+    [
+      3,
+      2,
+      5
+    ]
+  ],
+  "groups": [
+    [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  ],
+  "squared_radii_numeric": [
+    0.49999999999976535
+  ],
+  "positions": [
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      1.7584544931281698e-13,
+      0.5773502691899306,
+      -0.8164965809272948
+    ],
+    [
+      0.49999999999999994,
+      -0.28867513459399985,
+      -0.8164965809280136
+    ],
+    [
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.5,
+      0.8660254037844386,
+      0.0
+    ],
+    [
+      0.9999999999998239,
+      0.5773502691899307,
+      -0.816496580927295
+    ]
+  ],
+  "center": [
+    0.5,
+    0.2886751345949145,
+    -0.40824829046357564
+  ],
+  "sources": {
+    "faces": {
+      "path": "/Users/ferleger/Downloads/crp_bi_numeric_v2/results/census-20260913-031248/188-a112e4ab985f5ff2c0a2ba34a70c81acb431fdb5a7ee0a4858bad4f992772c06/input.json",
+      "sha256": "dfad90baa789067c287f7d6bfa0242c46469946173a14db03d2b218b72c73b05"
+    },
+    "bi": {
+      "path": "/Users/ferleger/Downloads/crp_bi_numeric_v2/results/census-20260913-031248/188-a112e4ab985f5ff2c0a2ba34a70c81acb431fdb5a7ee0a4858bad4f992772c06/numerical.json",
+      "sha256": "94f45379361a60a89fdddddc264564e21bd613a1eba38a593e255285cd9fa939"
+    },
+    "partition": {
+      "path": "/Users/ferleger/.codex/.chatgpt-projects/g-p-6aa04372c90481918903cd634fed4dea/outputs/crp-min-spheres-bi-20260914/cases/188-H97ef20a633beda9.json",
+      "sha256": "d6cc130e9d3a09a15e29b919c40bb5b445990a48550f4f241c21494a1bd26d12"
+    }
+  },
+  "name": "regular octahedron",
+  "preflight": {
+    "numerical_only": true,
+    "center_clearance": 0.4082482904635756,
+    "radius_spread": 1.2456702336294256e-13,
+    "face_pair_error": 5.282441151166495e-13,
+    "within_shell_center_rank": 3
+  },
+  "notes": []
+}

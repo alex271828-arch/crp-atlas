@@ -1,0 +1,140 @@
+{
+  "primitive_symbol": "alpha",
+  "primitive_polynomial": "256*alpha**4 - 256*alpha**3 - 64*alpha**2 + 4*alpha + 1",
+  "isolating_interval": [
+    "7507729/6278171",
+    "31681763/26493168"
+  ],
+  "groups": [
+    [
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    [
+      0,
+      4,
+      12,
+      13
+    ]
+  ],
+  "squared_radii": [
+    "128*alpha**3/5 - 144*alpha**2/5 - 12*alpha/5 + 5/4",
+    "-256*alpha**3/5 + 304*alpha**2/5 + 16*alpha/5 - 11/20"
+  ],
+  "radii": [
+    "sqrt(128*alpha**3/5 - 144*alpha**2/5 - 12*alpha/5 + 5/4)",
+    "sqrt(-256*alpha**3/5 + 304*alpha**2/5 + 16*alpha/5 - 11/20)"
+  ],
+  "Q_factored": "(T-(128*alpha**3/5 - 144*alpha**2/5 - 12*alpha/5 + 5/4))*(T-(-256*alpha**3/5 + 304*alpha**2/5 + 16*alpha/5 - 11/20))",
+  "Q_coefficients": [
+    "1",
+    "128*alpha**3/5 - 32*alpha**2 - 4*alpha/5 - 7/10",
+    "-96*alpha**3/5 + 24*alpha**2 + alpha - 7/80"
+  ],
+  "verification_method": "exact_gram_geometry",
+  "auxiliary_assignments": {},
+  "geometric_certificate": {
+    "metric": [
+      [
+        "-1664*alpha**3/49 + 2000*alpha**2/49 + 104*alpha/49 - 55/196",
+        "1024*alpha**3/49 - 1248*alpha**2/49 - 8*alpha/49 + 155/196",
+        "-96*alpha**3/49 + 40*alpha**2/49 + 6*alpha/49 + 43/196"
+      ],
+      [
+        "1024*alpha**3/49 - 1248*alpha**2/49 - 8*alpha/49 + 155/196",
+        "576*alpha**3/49 - 576*alpha**2/49 - 120*alpha/49 + 169/196",
+        "1024*alpha**3/49 - 1248*alpha**2/49 - 8*alpha/49 + 155/196"
+      ],
+      [
+        "-96*alpha**3/49 + 40*alpha**2/49 + 6*alpha/49 + 43/196",
+        "1024*alpha**3/49 - 1248*alpha**2/49 - 8*alpha/49 + 155/196",
+        "-1664*alpha**3/49 + 2000*alpha**2/49 + 104*alpha/49 - 55/196"
+      ]
+    ],
+    "coordinates": [
+      [
+        "1",
+        "0",
+        "0"
+      ],
+      [
+        "32*alpha**2 - 32*alpha - 7",
+        "-256*alpha**3 + 224*alpha**2 + 92*alpha + 8",
+        "256*alpha**3 - 256*alpha**2 - 60*alpha"
+      ],
+      [
+        "16*alpha**2 - 16*alpha - 3",
+        "-192*alpha**3 + 192*alpha**2 + 44*alpha + 1",
+        "192*alpha**3 - 208*alpha**2 - 28*alpha + 3"
+      ],
+      [
+        "-128*alpha**3 + 944*alpha**2/7 + 160*alpha/7 - 9/7",
+        "64*alpha**3 - 320*alpha**2/7 - 236*alpha/7 - 31/7",
+        "64*alpha**3 - 624*alpha**2/7 + 76*alpha/7 + 33/7"
+      ],
+      [
+        "-128*alpha**3 + 832*alpha**2/7 + 272*alpha/7 + 19/7",
+        "256*alpha**3 - 1664*alpha**2/7 - 544*alpha/7 - 38/7",
+        "-128*alpha**3 + 832*alpha**2/7 + 272*alpha/7 + 12/7"
+      ],
+      [
+        "-128*alpha**3 + 1056*alpha**2/7 + 48*alpha/7 - 37/7",
+        "-96*alpha**2/7 + 100*alpha/7 + 18/7",
+        "128*alpha**3 - 960*alpha**2/7 - 148*alpha/7 + 12/7"
+      ],
+      [
+        "0",
+        "1",
+        "0"
+      ],
+      [
+        "256*alpha**3 - 256*alpha**2 - 60*alpha",
+        "-256*alpha**3 + 224*alpha**2 + 92*alpha + 8",
+        "32*alpha**2 - 32*alpha - 7"
+      ],
+      [
+        "192*alpha**3 - 208*alpha**2 - 28*alpha + 3",
+        "-192*alpha**3 + 192*alpha**2 + 44*alpha + 1",
+        "16*alpha**2 - 16*alpha - 3"
+      ],
+      [
+        "-128*alpha**3 + 832*alpha**2/7 + 272*alpha/7 + 12/7",
+        "256*alpha**3 - 1664*alpha**2/7 - 544*alpha/7 - 31/7",
+        "-128*alpha**3 + 832*alpha**2/7 + 272*alpha/7 + 12/7"
+      ],
+      [
+        "64*alpha**3 - 624*alpha**2/7 + 76*alpha/7 + 33/7",
+        "64*alpha**3 - 320*alpha**2/7 - 236*alpha/7 - 31/7",
+        "-128*alpha**3 + 944*alpha**2/7 + 160*alpha/7 - 9/7"
+      ],
+      [
+        "128*alpha**3 - 960*alpha**2/7 - 148*alpha/7 + 12/7",
+        "-96*alpha**2/7 + 100*alpha/7 + 18/7",
+        "-128*alpha**3 + 1056*alpha**2/7 + 48*alpha/7 - 37/7"
+      ],
+      [
+        "0",
+        "0",
+        "1"
+      ],
+      [
+        "-128*alpha**3 + 832*alpha**2/7 + 272*alpha/7 + 12/7",
+        "256*alpha**3 - 1664*alpha**2/7 - 544*alpha/7 - 38/7",
+        "-128*alpha**3 + 832*alpha**2/7 + 272*alpha/7 + 19/7"
+      ]
+    ],
+    "center": [
+      "128*alpha**3/5 - 832*alpha**2/35 - 272*alpha/35 - 19/35",
+      "-256*alpha**3/5 + 1664*alpha**2/35 + 544*alpha/35 + 38/35",
+      "128*alpha**3/5 - 832*alpha**2/35 - 272*alpha/35 - 19/35"
+    ]
+  }
+}

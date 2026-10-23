@@ -1,0 +1,854 @@
+[
+  {
+    "face": 0,
+    "vertices": [
+      0,
+      1,
+      2
+    ],
+    "size": 3,
+    "flatness_disproved_at_metric_root": false,
+    "status": "NOT_DISPROVED",
+    "signed_distances_to_first_three_vertex_plane": [
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ]
+    ],
+    "nonzero_height_witnesses": [],
+    "nonzero_chord_witnesses": []
+  },
+  {
+    "face": 1,
+    "vertices": [
+      1,
+      0,
+      3
+    ],
+    "size": 3,
+    "flatness_disproved_at_metric_root": false,
+    "status": "NOT_DISPROVED",
+    "signed_distances_to_first_three_vertex_plane": [
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ]
+    ],
+    "nonzero_height_witnesses": [],
+    "nonzero_chord_witnesses": []
+  },
+  {
+    "face": 2,
+    "vertices": [
+      2,
+      1,
+      4
+    ],
+    "size": 3,
+    "flatness_disproved_at_metric_root": false,
+    "status": "NOT_DISPROVED",
+    "signed_distances_to_first_three_vertex_plane": [
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ]
+    ],
+    "nonzero_height_witnesses": [],
+    "nonzero_chord_witnesses": []
+  },
+  {
+    "face": 3,
+    "vertices": [
+      0,
+      2,
+      5
+    ],
+    "size": 3,
+    "flatness_disproved_at_metric_root": false,
+    "status": "NOT_DISPROVED",
+    "signed_distances_to_first_three_vertex_plane": [
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ]
+    ],
+    "nonzero_height_witnesses": [],
+    "nonzero_chord_witnesses": []
+  },
+  {
+    "face": 4,
+    "vertices": [
+      3,
+      0,
+      6
+    ],
+    "size": 3,
+    "flatness_disproved_at_metric_root": false,
+    "status": "NOT_DISPROVED",
+    "signed_distances_to_first_three_vertex_plane": [
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ]
+    ],
+    "nonzero_height_witnesses": [],
+    "nonzero_chord_witnesses": []
+  },
+  {
+    "face": 5,
+    "vertices": [
+      1,
+      3,
+      7
+    ],
+    "size": 3,
+    "flatness_disproved_at_metric_root": false,
+    "status": "NOT_DISPROVED",
+    "signed_distances_to_first_three_vertex_plane": [
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ]
+    ],
+    "nonzero_height_witnesses": [],
+    "nonzero_chord_witnesses": []
+  },
+  {
+    "face": 6,
+    "vertices": [
+      4,
+      1,
+      7
+    ],
+    "size": 3,
+    "flatness_disproved_at_metric_root": false,
+    "status": "NOT_DISPROVED",
+    "signed_distances_to_first_three_vertex_plane": [
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ]
+    ],
+    "nonzero_height_witnesses": [],
+    "nonzero_chord_witnesses": []
+  },
+  {
+    "face": 7,
+    "vertices": [
+      2,
+      4,
+      8
+    ],
+    "size": 3,
+    "flatness_disproved_at_metric_root": false,
+    "status": "NOT_DISPROVED",
+    "signed_distances_to_first_three_vertex_plane": [
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ]
+    ],
+    "nonzero_height_witnesses": [],
+    "nonzero_chord_witnesses": []
+  },
+  {
+    "face": 8,
+    "vertices": [
+      5,
+      2,
+      8,
+      9
+    ],
+    "size": 4,
+    "flatness_disproved_at_metric_root": true,
+    "status": "NONFLAT_AT_METRIC_ROOT",
+    "signed_distances_to_first_three_vertex_plane": [
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "-68411419899270244303035946285210442775400185123/1461501637330902918203684832716283019655932542976",
+        "-34205709949635122071318614080886911139510656675/730750818665451459101842416358141509827966271488"
+      ]
+    ],
+    "nonzero_height_witnesses": [
+      {
+        "vertex": 9,
+        "signed_plane_distance": [
+          "-68411419899270244303035946285210442775400185123/1461501637330902918203684832716283019655932542976",
+          "-34205709949635122071318614080886911139510656675/730750818665451459101842416358141509827966271488"
+        ]
+      }
+    ],
+    "nonzero_chord_witnesses": [
+      {
+        "vertices": [
+          2,
+          9
+        ],
+        "squared_chord_defect": [
+          "-801446399992974935677355572166266772618617809/365375409332725729550921208179070754913983135744",
+          "-801446399992974905050047935547260498217829233/365375409332725729550921208179070754913983135744"
+        ]
+      }
+    ]
+  },
+  {
+    "face": 9,
+    "vertices": [
+      0,
+      5,
+      6
+    ],
+    "size": 3,
+    "flatness_disproved_at_metric_root": false,
+    "status": "NOT_DISPROVED",
+    "signed_distances_to_first_three_vertex_plane": [
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ]
+    ],
+    "nonzero_height_witnesses": [],
+    "nonzero_chord_witnesses": []
+  },
+  {
+    "face": 10,
+    "vertices": [
+      3,
+      6,
+      10
+    ],
+    "size": 3,
+    "flatness_disproved_at_metric_root": false,
+    "status": "NOT_DISPROVED",
+    "signed_distances_to_first_three_vertex_plane": [
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ]
+    ],
+    "nonzero_height_witnesses": [],
+    "nonzero_chord_witnesses": []
+  },
+  {
+    "face": 11,
+    "vertices": [
+      7,
+      3,
+      10,
+      11
+    ],
+    "size": 4,
+    "flatness_disproved_at_metric_root": true,
+    "status": "NONFLAT_AT_METRIC_ROOT",
+    "signed_distances_to_first_three_vertex_plane": [
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "-8551427487408780541228618904255759983559386339/182687704666362864775460604089535377456991567872",
+        "-34205709949635122057922111606160437657871647461/730750818665451459101842416358141509827966271488"
+      ]
+    ],
+    "nonzero_height_witnesses": [
+      {
+        "vertex": 11,
+        "signed_plane_distance": [
+          "-8551427487408780541228618904255759983559386339/182687704666362864775460604089535377456991567872",
+          "-34205709949635122057922111606160437657871647461/730750818665451459101842416358141509827966271488"
+        ]
+      }
+    ],
+    "nonzero_chord_witnesses": [
+      {
+        "vertices": [
+          3,
+          11
+        ],
+        "squared_chord_defect": [
+          "-1602892799985949882403471624302153025427602823/730750818665451459101842416358141509827966271488",
+          "-1602892799985949799051335391664202561820692289/730750818665451459101842416358141509827966271488"
+        ]
+      }
+    ]
+  },
+  {
+    "face": 12,
+    "vertices": [
+      4,
+      7,
+      12
+    ],
+    "size": 3,
+    "flatness_disproved_at_metric_root": false,
+    "status": "NOT_DISPROVED",
+    "signed_distances_to_first_three_vertex_plane": [
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ]
+    ],
+    "nonzero_height_witnesses": [],
+    "nonzero_chord_witnesses": []
+  },
+  {
+    "face": 13,
+    "vertices": [
+      8,
+      4,
+      12,
+      13
+    ],
+    "size": 4,
+    "flatness_disproved_at_metric_root": true,
+    "status": "NONFLAT_AT_METRIC_ROOT",
+    "signed_distances_to_first_three_vertex_plane": [
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "-34205709949635122155850183349011621854986611777/730750818665451459101842416358141509827966271488",
+        "-68411419899270244133972807748744121149718626641/1461501637330902918203684832716283019655932542976"
+      ]
+    ],
+    "nonzero_height_witnesses": [
+      {
+        "vertex": 13,
+        "signed_plane_distance": [
+          "-34205709949635122155850183349011621854986611777/730750818665451459101842416358141509827966271488",
+          "-68411419899270244133972807748744121149718626641/1461501637330902918203684832716283019655932542976"
+        ]
+      }
+    ],
+    "nonzero_chord_witnesses": [
+      {
+        "vertices": [
+          4,
+          13
+        ],
+        "squared_chord_defect": [
+          "-3205785599971899779532164908539937325781998809/1461501637330902918203684832716283019655932542976",
+          "-400723199996487447922181140189117516139833109/182687704666362864775460604089535377456991567872"
+        ]
+      }
+    ]
+  },
+  {
+    "face": 14,
+    "vertices": [
+      9,
+      8,
+      13
+    ],
+    "size": 3,
+    "flatness_disproved_at_metric_root": false,
+    "status": "NOT_DISPROVED",
+    "signed_distances_to_first_three_vertex_plane": [
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ]
+    ],
+    "nonzero_height_witnesses": [],
+    "nonzero_chord_witnesses": []
+  },
+  {
+    "face": 15,
+    "vertices": [
+      5,
+      9,
+      14
+    ],
+    "size": 3,
+    "flatness_disproved_at_metric_root": false,
+    "status": "NOT_DISPROVED",
+    "signed_distances_to_first_three_vertex_plane": [
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ]
+    ],
+    "nonzero_height_witnesses": [],
+    "nonzero_chord_witnesses": []
+  },
+  {
+    "face": 16,
+    "vertices": [
+      6,
+      5,
+      14
+    ],
+    "size": 3,
+    "flatness_disproved_at_metric_root": false,
+    "status": "NOT_DISPROVED",
+    "signed_distances_to_first_three_vertex_plane": [
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ]
+    ],
+    "nonzero_height_witnesses": [],
+    "nonzero_chord_witnesses": []
+  },
+  {
+    "face": 17,
+    "vertices": [
+      10,
+      6,
+      14,
+      15
+    ],
+    "size": 4,
+    "flatness_disproved_at_metric_root": true,
+    "status": "NONFLAT_AT_METRIC_ROOT",
+    "signed_distances_to_first_three_vertex_plane": [
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "-68411419899270244351189547881002208602883454911/1461501637330902918203684832716283019655932542976",
+        "-34205709949635122047241813282927513765172805023/730750818665451459101842416358141509827966271488"
+      ]
+    ],
+    "nonzero_height_witnesses": [
+      {
+        "vertex": 15,
+        "signed_plane_distance": [
+          "-68411419899270244351189547881002208602883454911/1461501637330902918203684832716283019655932542976",
+          "-34205709949635122047241813282927513765172805023/730750818665451459101842416358141509827966271488"
+        ]
+      }
+    ],
+    "nonzero_chord_witnesses": [
+      {
+        "vertices": [
+          6,
+          15
+        ],
+        "squared_chord_defect": [
+          "-1602892799985949887515313778694155296091415797/730750818665451459101842416358141509827966271488",
+          "-3205785599971899587878986473250066483817458359/1461501637330902918203684832716283019655932542976"
+        ]
+      }
+    ]
+  },
+  {
+    "face": 18,
+    "vertices": [
+      11,
+      10,
+      15
+    ],
+    "size": 3,
+    "flatness_disproved_at_metric_root": false,
+    "status": "NOT_DISPROVED",
+    "signed_distances_to_first_three_vertex_plane": [
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ]
+    ],
+    "nonzero_height_witnesses": [],
+    "nonzero_chord_witnesses": []
+  },
+  {
+    "face": 19,
+    "vertices": [
+      7,
+      11,
+      12
+    ],
+    "size": 3,
+    "flatness_disproved_at_metric_root": false,
+    "status": "NOT_DISPROVED",
+    "signed_distances_to_first_three_vertex_plane": [
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ]
+    ],
+    "nonzero_height_witnesses": [],
+    "nonzero_chord_witnesses": []
+  },
+  {
+    "face": 20,
+    "vertices": [
+      13,
+      12,
+      16
+    ],
+    "size": 3,
+    "flatness_disproved_at_metric_root": false,
+    "status": "NOT_DISPROVED",
+    "signed_distances_to_first_three_vertex_plane": [
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ]
+    ],
+    "nonzero_height_witnesses": [],
+    "nonzero_chord_witnesses": []
+  },
+  {
+    "face": 21,
+    "vertices": [
+      9,
+      13,
+      17
+    ],
+    "size": 3,
+    "flatness_disproved_at_metric_root": false,
+    "status": "NOT_DISPROVED",
+    "signed_distances_to_first_three_vertex_plane": [
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ]
+    ],
+    "nonzero_height_witnesses": [],
+    "nonzero_chord_witnesses": []
+  },
+  {
+    "face": 22,
+    "vertices": [
+      14,
+      9,
+      17
+    ],
+    "size": 3,
+    "flatness_disproved_at_metric_root": false,
+    "status": "NOT_DISPROVED",
+    "signed_distances_to_first_three_vertex_plane": [
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ]
+    ],
+    "nonzero_height_witnesses": [],
+    "nonzero_chord_witnesses": []
+  },
+  {
+    "face": 23,
+    "vertices": [
+      15,
+      14,
+      17
+    ],
+    "size": 3,
+    "flatness_disproved_at_metric_root": false,
+    "status": "NOT_DISPROVED",
+    "signed_distances_to_first_three_vertex_plane": [
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ]
+    ],
+    "nonzero_height_witnesses": [],
+    "nonzero_chord_witnesses": []
+  },
+  {
+    "face": 24,
+    "vertices": [
+      11,
+      15,
+      16
+    ],
+    "size": 3,
+    "flatness_disproved_at_metric_root": false,
+    "status": "NOT_DISPROVED",
+    "signed_distances_to_first_three_vertex_plane": [
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ]
+    ],
+    "nonzero_height_witnesses": [],
+    "nonzero_chord_witnesses": []
+  },
+  {
+    "face": 25,
+    "vertices": [
+      12,
+      11,
+      16
+    ],
+    "size": 3,
+    "flatness_disproved_at_metric_root": false,
+    "status": "NOT_DISPROVED",
+    "signed_distances_to_first_three_vertex_plane": [
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ]
+    ],
+    "nonzero_height_witnesses": [],
+    "nonzero_chord_witnesses": []
+  },
+  {
+    "face": 26,
+    "vertices": [
+      13,
+      16,
+      17
+    ],
+    "size": 3,
+    "flatness_disproved_at_metric_root": false,
+    "status": "NOT_DISPROVED",
+    "signed_distances_to_first_three_vertex_plane": [
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ]
+    ],
+    "nonzero_height_witnesses": [],
+    "nonzero_chord_witnesses": []
+  },
+  {
+    "face": 27,
+    "vertices": [
+      15,
+      17,
+      16
+    ],
+    "size": 3,
+    "flatness_disproved_at_metric_root": false,
+    "status": "NOT_DISPROVED",
+    "signed_distances_to_first_three_vertex_plane": [
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ]
+    ],
+    "nonzero_height_witnesses": [],
+    "nonzero_chord_witnesses": []
+  }
+]

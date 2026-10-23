@@ -1,0 +1,46 @@
+{
+  "primitive_symbol": "alpha",
+  "primitive_polynomial": "400*alpha**4 - 2400*alpha**3 + 4840*alpha**2 - 4040*alpha + 1201",
+  "isolating_interval": [
+    "21564649/7383984",
+    "51521513/17641559"
+  ],
+  "groups": [
+    [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "squared_radii": [
+    "5*alpha**3 - 25*alpha**2 + 143*alpha/4 - 59/4",
+    "-5*alpha**3 + 25*alpha**2 - 139*alpha/4 + 59/4"
+  ],
+  "radii": [
+    "sqrt(5*alpha**3 - 25*alpha**2 + 143*alpha/4 - 59/4)",
+    "sqrt(-5*alpha**3 + 25*alpha**2 - 139*alpha/4 + 59/4)"
+  ],
+  "Q_factored": "(T-(5*alpha**3 - 25*alpha**2 + 143*alpha/4 - 59/4))*(T-(-5*alpha**3 + 25*alpha**2 - 139*alpha/4 + 59/4))",
+  "Q_coefficients": [
+    "1",
+    "-alpha",
+    "-5*alpha**3/2 + 51*alpha**2/4 - 143*alpha/8 + 61/8"
+  ],
+  "verification_method": "radial",
+  "auxiliary_assignments": {
+    "y0": "sqrt(400*alpha**6 - 4000*alpha**5 + 15720*alpha**4 - 31000*alpha**3 + 32449*alpha**2 - 17160*alpha + 3599)",
+    "y1": "sqrt(50*sqrt(5)*alpha**6 + 250*alpha**6 - 2500*alpha**5 - 500*sqrt(5)*alpha**5 + 1965*sqrt(5)*alpha**4 + 9825*alpha**4 - 19380*alpha**3 - 3880*sqrt(5)*alpha**3 + 32649*sqrt(5)*alpha**2/8 + 162445*alpha**2/8 - 43043*alpha/4 - 8723*sqrt(5)*alpha/4 + 3717*sqrt(5)/8 + 18113/8)",
+    "y2": "sqrt(-2000*alpha**9 + 30000*alpha**8 - 192500*alpha**7 + 692800*alpha**6 - 1541535*alpha**5 + 2202375*alpha**4 - 8098283*alpha**3/4 + 2314867*alpha**2/2 - 1497107*alpha/4 + 52274)",
+    "y3": "sqrt(2000*alpha**9 - 30000*alpha**8 + 192100*alpha**7 - 688800*alpha**6 + 1525895*alpha**5 - 2171795*alpha**4 + 7971159*alpha**3/4 - 2281297*alpha**2/2 + 1482931*alpha/4 - 52274)"
+  }
+}

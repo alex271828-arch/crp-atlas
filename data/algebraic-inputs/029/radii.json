@@ -1,0 +1,81 @@
+{
+  "primitive_symbol": "alpha",
+  "primitive_polynomial": "alpha",
+  "isolating_interval": [
+    "0",
+    "0"
+  ],
+  "groups": [
+    [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  ],
+  "squared_radii": [
+    "1/2"
+  ],
+  "radii": [
+    "sqrt(2)/2"
+  ],
+  "Q_factored": "(T-(1/2))",
+  "Q_coefficients": [
+    "1",
+    "-1/2"
+  ],
+  "verification_method": "exact_gram_geometry",
+  "auxiliary_assignments": {},
+  "geometric_certificate": {
+    "metric": [
+      [
+        "13/25",
+        "1/50",
+        "-2/25"
+      ],
+      [
+        "1/50",
+        "13/25",
+        "-2/25"
+      ],
+      [
+        "-2/25",
+        "-2/25",
+        "8/25"
+      ]
+    ],
+    "coordinates": [
+      [
+        "1",
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "1",
+        "0"
+      ],
+      [
+        "0",
+        "0",
+        "1"
+      ],
+      [
+        "0",
+        "-1",
+        "-1/2"
+      ],
+      [
+        "-1",
+        "0",
+        "-1/2"
+      ]
+    ],
+    "center": [
+      "0",
+      "0",
+      "-1/4"
+    ]
+  }
+}

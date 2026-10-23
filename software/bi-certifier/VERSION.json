@@ -1,0 +1,43 @@
+{
+  "version": "4.0",
+  "date": "2026-09-25",
+  "based_on": "crp_bi_numeric_v3 3.0",
+  "geometry_central_commit": "019669ddabda05e0f71fa3587cfb3c1dadf19cb8",
+  "checker": "standard-library exact outward dyadic intervals; strict and piecewise hull metric endpoint methods",
+  "numerical_optimizer": "unchanged orbit-squared-radius gradient algorithm, rebuilt",
+  "validation": {
+    "tests_passed": 54,
+    "saved_certificates_replayed": 206,
+    "fresh_candidates_certified": 206,
+    "counts": {
+      "OPEN_FOR_ALGEBRAIC": 198,
+      "EXCLUDED_NONFLAT": 8
+    },
+    "exact_original_face_flatness_claimed": false
+  },
+  "sha256": {
+    "CHANGELOG.md": "4a41e422ac7c6378909299223cdfb0909db179b2fcf253e24080dac887b62952",
+    "CMakeLists.txt": "c4afcd1712e5e22d50eec11b84ae5a99eb4fa73b10daaba02c60c3599ae43029",
+    "GRADIENT_METHOD.md": "e2b491294fa00635d18063c4177089ccc71c2c123ac4879a55c2332cb9c4774f",
+    "HULL_METRIC_PROOF.md": "16138a6fb0593cf8ead0e3861c073d050c41d33f63e368050e547912835dc0bf",
+    "MATHEMATICAL_AUDIT.md": "1ff745f59698af47647ad265a798fa6efc39c83caa9edd7da90401d27f45ff9a",
+    "README.md": "cee3620e7e74abf862cf95f4c5715819f9be8e41bd91fa68116a7be458a96b86",
+    "VALIDATION.md": "b16689f127c2af8964c3599dfdc7d3456f189fed0df814688158e6fb31c3d549",
+    "build.sh": "376d3f9d7c1ab38f8d110d3d18615fc29db2f6ca61a9322b3e219f8517715c58",
+    "check.py": "5485b5b238cc79869b9b132c7013350cb0696b014d2dce353bc9ffb61e038e4e",
+    "exact_intervals.py": "11ceaa91c3c4ef970963b90005d597b6febb1ebbb92f5db0007ba5583d63f112",
+    "field.py": "5b33807ee566d7ada4acab72a2f28b8791a2413dcdc110fdcc4fc1b4e2b8aa9a",
+    "gradient_check": "bee0ba98cf75be7ce9e159c1cdf1127aceffdd075a953c413144c85bb7c589f2",
+    "gradient_embedder.h": "50efab692bf92da884bba7bea21b04e7ccbc4a9fcb5f587f236c75e234518e5f",
+    "hull_metric.py": "fb2897f8802457aaf6e403868358842c5afa31a5fed95aac50ba9dbc4a28c54c",
+    "hull_proposal.py": "2f3c1508aebbcbb7d86bce6eab1090e77db832dab75108f0e7707594a94f5d48",
+    "metric.py": "c7b0f232d7b1978dcf4c6cacaa0c5945a956f066f5cbec5356d7aca96410930b",
+    "metric_probe": "3e96adaa16d50cfcc80d084429b114dacacc361ff1d8ca12bae7e02dec12d627",
+    "metric_probe.cpp": "85e4657b7990b9e0ffffb7b6ba38e9b87ee0a6291f840b1ea9ef490c3e2538ed",
+    "produce.py": "fb1ce98d87f484aed0ec45c74e68b3d1011835195f4349d0874d99cf34665856",
+    "proof.py": "96e93f61c0a6ad3ca53cc0a7c9a1a83167e7d2e898f27e786f56c2dbdef9c762",
+    "requirements.txt": "20216335543ebb67dc0a6b74ee8151c4d18c5800cb07da02ff93e4840a9eed4c",
+    "run.py": "f1aec24f155ed9531e1d17a4500643e573adf3fe98fb1a81788e695926f50975",
+    "symmetry.py": "aad28cdfbbf815dfd9d87c82fb9722404ab785dc2bd7ec75902369dabd3fb0c5"
+  }
+}

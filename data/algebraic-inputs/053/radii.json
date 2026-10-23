@@ -1,0 +1,68 @@
+{
+  "primitive_symbol": "alpha",
+  "primitive_polynomial": "alpha**4 - 4*alpha**3 - 19*alpha**2 + 46*alpha - 19",
+  "isolating_interval": [
+    "97369189/16283027",
+    "99596729/16655538"
+  ],
+  "groups": [
+    [
+      2,
+      3,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    [
+      0,
+      1,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  ],
+  "squared_radii": [
+    "alpha**2/11 - 2*alpha/11 + 5/11",
+    "-alpha**2/11 + 13*alpha/11 - 5/11"
+  ],
+  "radii": [
+    "sqrt(alpha**2/11 - 2*alpha/11 + 5/11)",
+    "sqrt(-alpha**2/11 + 13*alpha/11 - 5/11)"
+  ],
+  "Q_factored": "(T-(alpha**2/11 - 2*alpha/11 + 5/11))*(T-(-alpha**2/11 + 13*alpha/11 - 5/11))",
+  "Q_coefficients": [
+    "1",
+    "-alpha",
+    "alpha**3/11 - 5*alpha**2/11 + alpha - 4/11"
+  ],
+  "verification_method": "radial",
+  "auxiliary_assignments": {
+    "y0": "sqrt(12*alpha**4/121 - 48*alpha**3/121 + 124*alpha**2/121 - 152*alpha/121 + 80/121)",
+    "y1": "sqrt(2*sqrt(5)*alpha**4/121 + 10*alpha**4/121 - 40*alpha**3/121 - 8*sqrt(5)*alpha**3/121 + 6*sqrt(5)*alpha**2/121 + 74*alpha**2/121 - 68*alpha/121 + 4*sqrt(5)*alpha/121 - 60*sqrt(5)/121 - 80/121)",
+    "y2": "sqrt(-16*alpha**6/1331 + 272*alpha**5/1331 - 1576*alpha**4/1331 + 4828*alpha**3/1331 - 8936*alpha**2/1331 + 9308*alpha/1331 - 3320/1331)",
+    "y3": "sqrt(-16*alpha**6/1331 + 272*alpha**5/1331 - 1664*alpha**4/1331 + 5664*alpha**3/1331 - 11136*alpha**2/1331 + 13488*alpha/1331 - 5520/1331)",
+    "y4": "sqrt(16*alpha**6/1331 - 448*alpha**5/1331 + 4216*alpha**4/1331 - 16004*alpha**3/1331 + 26492*alpha**2/1331 - 16612*alpha/1331 + 3320/1331)",
+    "y5": "sqrt(16*alpha**6/1331 - 448*alpha**5/1331 + 4304*alpha**4/1331 - 17808*alpha**3/1331 + 35952*alpha**2/1331 - 25632*alpha/1331 + 5520/1331)",
+    "y6": "sqrt(-2*sqrt(5)*alpha**4/121 + 10*alpha**4/121 - 260*alpha**3/121 + 52*sqrt(5)*alpha**3/121 - 336*sqrt(5)*alpha**2/121 + 1900*alpha**2/121 - 2730*alpha/121 - 26*sqrt(5)*alpha/121 + 60*sqrt(5)/121 + 800/121)"
+  }
+}

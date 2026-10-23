@@ -1,0 +1,6 @@
+{
+  "original_sphere_file": "/Users/ferleger/.codex/.chatgpt-projects/g-p-6aa04372c90481918903cd634fed4dea/outputs/johnson-min-spheres-bi-20260914/J84.json",
+  "original_bi_file": "/Users/ferleger/Downloads/crp_bi_numeric_v3/results/validation-johnson92/084-J84/numerical.json",
+  "original_bi_sha256": "8ddbac519f7d599eb944c7c8fdeed217e43f9500698fedaa861182f7012f31d6",
+  "note": "Numerical witness only. No exact answer is supplied to the solver."
+}

@@ -1,0 +1,140 @@
+{
+  "faces": [
+    [
+      0,
+      2,
+      3
+    ],
+    [
+      3,
+      1,
+      6,
+      4
+    ],
+    [
+      0,
+      5,
+      6,
+      1
+    ],
+    [
+      3,
+      2,
+      1
+    ],
+    [
+      5,
+      4,
+      7
+    ],
+    [
+      7,
+      4,
+      6
+    ],
+    [
+      0,
+      3,
+      4,
+      5
+    ],
+    [
+      0,
+      1,
+      2
+    ],
+    [
+      6,
+      5,
+      7
+    ]
+  ],
+  "groups": [
+    [
+      0,
+      1,
+      3,
+      4,
+      5,
+      6
+    ],
+    [
+      2,
+      7
+    ]
+  ],
+  "squared_radii_numeric": [
+    0.5833333333424259,
+    1.7331632476006753
+  ],
+  "positions": [
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.5000000000093585,
+      0.28867513458941,
+      -0.8164965809353673
+    ],
+    [
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.5,
+      0.8660254037844386,
+      0.0
+    ],
+    [
+      -0.316496580930112,
+      1.337429924576848,
+      -0.33333333332554044
+    ],
+    [
+      -0.816496580930112,
+      0.47140452078386474,
+      -0.33333333333762416
+    ],
+    [
+      -0.3164965809173819,
+      0.7600796553827207,
+      -1.1498299142826915
+    ],
+    [
+      -1.1498299142647441,
+      1.2412048797051607,
+      -0.8776643872980388
+    ]
+  ],
+  "center": [
+    -0.07491495712912476,
+    0.6206024398544552,
+    -0.43883219365432224
+  ],
+  "sources": {
+    "faces": {
+      "path": "/Users/ferleger/Downloads/crp_bi_numeric_v3/results/validation-johnson92/014-J14/input.json",
+      "sha256": "ab46928c57efdf5544521a4405c0294e87aa3ebaf15f96abf3dac82a7a244e91"
+    },
+    "bi": {
+      "path": "/Users/ferleger/Downloads/crp_bi_numeric_v3/results/validation-johnson92/014-J14/numerical.json",
+      "sha256": "95fefec233bf8f42f0defe3636f552c1e655dd01557e0dd53528d91aadfe6438"
+    },
+    "partition": {
+      "path": "/Users/ferleger/.codex/.chatgpt-projects/g-p-6aa04372c90481918903cd634fed4dea/outputs/crp-min-spheres-bi-20260914/cases/094-H3471e2013c515a6.json",
+      "sha256": "6812ad7de38dc92b8cfeacb141e31a0920278e304b25347f7091b5d4cc11974c"
+    }
+  },
+  "name": "J14 elongated triangular bipyramid",
+  "preflight": {
+    "numerical_only": true,
+    "center_clearance": 0.28867513459391236,
+    "radius_spread": 2.220446049250313e-16,
+    "face_pair_error": 2.6624480398140804e-11,
+    "within_shell_center_rank": 3
+  },
+  "notes": []
+}

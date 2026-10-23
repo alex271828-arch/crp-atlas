@@ -1,0 +1,480 @@
+{
+  "schema": "crp-metric-coordinates/1",
+  "input": {
+    "faces": [
+      [
+        9,
+        1,
+        7
+      ],
+      [
+        3,
+        2,
+        9
+      ],
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        0,
+        5,
+        6,
+        7,
+        1
+      ],
+      [
+        6,
+        5,
+        8
+      ],
+      [
+        2,
+        1,
+        9
+      ],
+      [
+        8,
+        5,
+        4
+      ],
+      [
+        0,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        8,
+        4,
+        6
+      ],
+      [
+        3,
+        9,
+        7,
+        6,
+        4
+      ]
+    ],
+    "groups": [
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+      ],
+      [
+        8
+      ]
+    ]
+  },
+  "source_algebra": {
+    "primitive_symbol": "alpha",
+    "primitive_polynomial": "144*alpha**4 - 912*alpha**3 + 1852*alpha**2 - 1532*alpha + 449",
+    "isolating_interval": [
+      "11112596/3291155",
+      "387271851/114696124"
+    ],
+    "groups": [
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+      ],
+      [
+        8
+      ]
+    ],
+    "squared_radii": [
+      "12*alpha**3 - 65*alpha**2 + 95*alpha - 163/4",
+      "-12*alpha**3 + 65*alpha**2 - 94*alpha + 163/4"
+    ]
+  },
+  "source_files": {
+    "input.json": {
+      "path": "/Users/ferleger/Downloads/crp_algebraic_radii_v3/out/all-198-v3.0.7-20260916-050904/062-H990ab50eb335d95/input.json",
+      "sha256": "1ee451b735fb291a3f53daa4a5145ee56f388951693d938c2b8c26726446f79e"
+    },
+    "radii.json": {
+      "path": "/Users/ferleger/Downloads/crp_algebraic_radii_v3/out/all-198-v3.0.7-20260916-050904/062-H990ab50eb335d95/radii.json",
+      "sha256": "debb24022754151888c007a88b9fd9b84c203e37bfac1c9d28ce73d317bf83da"
+    }
+  },
+  "reconstruction": {
+    "route": "positive radial cone development",
+    "basis_vertices": [
+      9,
+      1,
+      7
+    ]
+  },
+  "metric": [
+    [
+      "12*alpha**3 - 65*alpha**2 + 95*alpha - 163/4",
+      "12*alpha**3 - 65*alpha**2 + 95*alpha - 165/4",
+      "12*alpha**3 - 65*alpha**2 + 95*alpha - 165/4"
+    ],
+    [
+      "12*alpha**3 - 65*alpha**2 + 95*alpha - 165/4",
+      "12*alpha**3 - 65*alpha**2 + 95*alpha - 163/4",
+      "12*alpha**3 - 65*alpha**2 + 95*alpha - 165/4"
+    ],
+    [
+      "12*alpha**3 - 65*alpha**2 + 95*alpha - 165/4",
+      "12*alpha**3 - 65*alpha**2 + 95*alpha - 165/4",
+      "12*alpha**3 - 65*alpha**2 + 95*alpha - 163/4"
+    ]
+  ],
+  "positive_radicals": [
+    "12*alpha**3 - 65*alpha**2 + 95*alpha - 163/4"
+  ],
+  "metric_coordinates": [
+    [
+      {
+        "0": "-48*alpha**3 + 260*alpha**2 - 380*alpha + 166"
+      },
+      {
+        "0": "1"
+      },
+      {
+        "0": "-48*alpha**3 + 260*alpha**2 - 380*alpha + 166"
+      }
+    ],
+    [
+      {},
+      {
+        "0": "1"
+      },
+      {}
+    ],
+    [
+      {
+        "0": "48*alpha**3 - 260*alpha**2 + 380*alpha - 166"
+      },
+      {
+        "0": "48*alpha**3 - 260*alpha**2 + 380*alpha - 166"
+      },
+      {
+        "0": "-1"
+      }
+    ],
+    [
+      {
+        "0": "1"
+      },
+      {
+        "0": "-48*alpha**3 + 260*alpha**2 - 380*alpha + 166"
+      },
+      {
+        "0": "-48*alpha**3 + 260*alpha**2 - 380*alpha + 166"
+      }
+    ],
+    [
+      {},
+      {
+        "0": "-1"
+      },
+      {}
+    ],
+    [
+      {
+        "0": "-1"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "0": "-48*alpha**3 + 260*alpha**2 - 380*alpha + 166"
+      },
+      {
+        "0": "-48*alpha**3 + 260*alpha**2 - 380*alpha + 166"
+      },
+      {
+        "0": "1"
+      }
+    ],
+    [
+      {},
+      {},
+      {
+        "0": "1"
+      }
+    ],
+    [
+      {
+        "0": "16*alpha**3 - 272*alpha**2/3 + 430*alpha/3 - 202/3"
+      },
+      {
+        "0": "16*alpha**3 - 272*alpha**2/3 + 430*alpha/3 - 202/3"
+      },
+      {
+        "0": "24*alpha**3 - 136*alpha**2 + 216*alpha - 102"
+      }
+    ],
+    [
+      {
+        "0": "1"
+      },
+      {},
+      {}
+    ]
+  ],
+  "metric_center": [
+    {},
+    {},
+    {}
+  ],
+  "cartesian_transform": [
+    [
+      {
+        "1": "1"
+      },
+      {
+        "1": "96*alpha**3/5 - 104*alpha**2 + 152*alpha - 331/5"
+      },
+      {
+        "1": "96*alpha**3/5 - 104*alpha**2 + 152*alpha - 331/5"
+      }
+    ],
+    [
+      {},
+      {
+        "1": "192*alpha**3/5 - 208*alpha**2 + 304*alpha - 662/5"
+      },
+      {
+        "1": "-4*(alpha - 1)*(12*alpha**2 - 53*alpha + 42)/5"
+      }
+    ],
+    [
+      {},
+      {},
+      {
+        "0": "24*alpha**3 - 130*alpha**2 + 190*alpha - 165/2"
+      }
+    ]
+  ],
+  "cartesian_coordinates": [
+    [
+      {
+        "1": "-96*alpha**3/5 + 104*alpha**2 - 152*alpha + 331/5"
+      },
+      {
+        "1": "48*alpha**3/5 - 52*alpha**2 + 76*alpha - 163/5"
+      },
+      {
+        "0": "-1/2"
+      }
+    ],
+    [
+      {
+        "1": "96*alpha**3/5 - 104*alpha**2 + 152*alpha - 331/5"
+      },
+      {
+        "1": "192*alpha**3/5 - 208*alpha**2 + 304*alpha - 662/5"
+      },
+      {}
+    ],
+    [
+      {
+        "1": "96*alpha**3/5 - 104*alpha**2 + 152*alpha - 331/5"
+      },
+      {
+        "1": "-4*(alpha - 1)*(12*alpha**2 - 53*alpha + 42)/5"
+      },
+      {
+        "0": "-24*alpha**3 + 130*alpha**2 - 190*alpha + 165/2"
+      }
+    ],
+    [
+      {
+        "1": "96*alpha**3/5 - 104*alpha**2 + 152*alpha - 331/5"
+      },
+      {
+        "1": "-48*alpha**3/5 + 52*alpha**2 - 76*alpha + 163/5"
+      },
+      {
+        "0": "-1/2"
+      }
+    ],
+    [
+      {
+        "1": "-96*alpha**3/5 + 104*alpha**2 - 152*alpha + 331/5"
+      },
+      {
+        "1": "-192*alpha**3/5 + 208*alpha**2 - 304*alpha + 662/5"
+      },
+      {}
+    ],
+    [
+      {
+        "1": "-1"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "1": "-96*alpha**3/5 + 104*alpha**2 - 152*alpha + 331/5"
+      },
+      {
+        "1": "4*(alpha - 1)*(12*alpha**2 - 53*alpha + 42)/5"
+      },
+      {
+        "0": "24*alpha**3 - 130*alpha**2 + 190*alpha - 165/2"
+      }
+    ],
+    [
+      {
+        "1": "96*alpha**3/5 - 104*alpha**2 + 152*alpha - 331/5"
+      },
+      {
+        "1": "-4*(alpha - 1)*(12*alpha**2 - 53*alpha + 42)/5"
+      },
+      {
+        "0": "24*alpha**3 - 130*alpha**2 + 190*alpha - 165/2"
+      }
+    ],
+    [
+      {
+        "1": "-2*(12*alpha**3 - 68*alpha**2 + 112*alpha - 55)/15"
+      },
+      {
+        "1": "2*(12*alpha**3 - 68*alpha**2 + 107*alpha - 50)/5"
+      },
+      {
+        "0": "-(24*alpha**3 - 136*alpha**2 + 215*alpha - 101)/3"
+      }
+    ],
+    [
+      {
+        "1": "1"
+      },
+      {},
+      {}
+    ]
+  ],
+  "cartesian_center": [
+    {},
+    {},
+    {}
+  ],
+  "metric_coordinate_formulas": [
+    [
+      "(-48*alpha**3 + 260*alpha**2 - 380*alpha + 166)",
+      "(1)",
+      "(-48*alpha**3 + 260*alpha**2 - 380*alpha + 166)"
+    ],
+    [
+      "0",
+      "(1)",
+      "0"
+    ],
+    [
+      "(48*alpha**3 - 260*alpha**2 + 380*alpha - 166)",
+      "(48*alpha**3 - 260*alpha**2 + 380*alpha - 166)",
+      "(-1)"
+    ],
+    [
+      "(1)",
+      "(-48*alpha**3 + 260*alpha**2 - 380*alpha + 166)",
+      "(-48*alpha**3 + 260*alpha**2 - 380*alpha + 166)"
+    ],
+    [
+      "0",
+      "(-1)",
+      "0"
+    ],
+    [
+      "(-1)",
+      "0",
+      "0"
+    ],
+    [
+      "(-48*alpha**3 + 260*alpha**2 - 380*alpha + 166)",
+      "(-48*alpha**3 + 260*alpha**2 - 380*alpha + 166)",
+      "(1)"
+    ],
+    [
+      "0",
+      "0",
+      "(1)"
+    ],
+    [
+      "(16*alpha**3 - 272*alpha**2/3 + 430*alpha/3 - 202/3)",
+      "(16*alpha**3 - 272*alpha**2/3 + 430*alpha/3 - 202/3)",
+      "(24*alpha**3 - 136*alpha**2 + 216*alpha - 102)"
+    ],
+    [
+      "(1)",
+      "0",
+      "0"
+    ]
+  ],
+  "cartesian_coordinate_formulas": [
+    [
+      "(-96*alpha**3/5 + 104*alpha**2 - 152*alpha + 331/5) * r0",
+      "(48*alpha**3/5 - 52*alpha**2 + 76*alpha - 163/5) * r0",
+      "(-1/2)"
+    ],
+    [
+      "(96*alpha**3/5 - 104*alpha**2 + 152*alpha - 331/5) * r0",
+      "(192*alpha**3/5 - 208*alpha**2 + 304*alpha - 662/5) * r0",
+      "0"
+    ],
+    [
+      "(96*alpha**3/5 - 104*alpha**2 + 152*alpha - 331/5) * r0",
+      "(-4*(alpha - 1)*(12*alpha**2 - 53*alpha + 42)/5) * r0",
+      "(-24*alpha**3 + 130*alpha**2 - 190*alpha + 165/2)"
+    ],
+    [
+      "(96*alpha**3/5 - 104*alpha**2 + 152*alpha - 331/5) * r0",
+      "(-48*alpha**3/5 + 52*alpha**2 - 76*alpha + 163/5) * r0",
+      "(-1/2)"
+    ],
+    [
+      "(-96*alpha**3/5 + 104*alpha**2 - 152*alpha + 331/5) * r0",
+      "(-192*alpha**3/5 + 208*alpha**2 - 304*alpha + 662/5) * r0",
+      "0"
+    ],
+    [
+      "(-1) * r0",
+      "0",
+      "0"
+    ],
+    [
+      "(-96*alpha**3/5 + 104*alpha**2 - 152*alpha + 331/5) * r0",
+      "(4*(alpha - 1)*(12*alpha**2 - 53*alpha + 42)/5) * r0",
+      "(24*alpha**3 - 130*alpha**2 + 190*alpha - 165/2)"
+    ],
+    [
+      "(96*alpha**3/5 - 104*alpha**2 + 152*alpha - 331/5) * r0",
+      "(-4*(alpha - 1)*(12*alpha**2 - 53*alpha + 42)/5) * r0",
+      "(24*alpha**3 - 130*alpha**2 + 190*alpha - 165/2)"
+    ],
+    [
+      "(-2*(12*alpha**3 - 68*alpha**2 + 112*alpha - 55)/15) * r0",
+      "(2*(12*alpha**3 - 68*alpha**2 + 107*alpha - 50)/5) * r0",
+      "(-(24*alpha**3 - 136*alpha**2 + 215*alpha - 101)/3)"
+    ],
+    [
+      "(1) * r0",
+      "0",
+      "0"
+    ]
+  ]
+}
