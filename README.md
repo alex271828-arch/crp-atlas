@@ -28,6 +28,8 @@ Drag to rotate, scroll to zoom, and use the information tabs for exact expressio
 
 The mathematical kernels are exported from the existing releases. Build products, private working directories, interrupted runs, caches and platform binaries are omitted. Third-party source needed for the BI build is included. Historical package documents describe their own release-time snapshots; the final coordinate ledger and census comparison are the evidence for this publication.
 
+The fresh publication replay passed **198/198 coordinate certificates and 8/8 exclusions**. See [the replay report](validation/publication-replay.json). All 201 hosted website files were downloaded and matched against the release.
+
 ## Verify the published certificates
 
 Python 3.10 or later is required. From the repository root:

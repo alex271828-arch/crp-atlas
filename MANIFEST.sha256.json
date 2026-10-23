@@ -1,6 +1,6 @@
 {
   "LICENSES.md": "940ada3d2d4f2a8a775901aa379583aefbb3d7904f025bc56e9d1f88e06d44e7",
-  "README.md": "0e85934a6081550606b334f7dfc0e8607aa48b5bb781a91692adc22c414ca73f",
+  "README.md": "c06bf0c6baeb1902eed4ed7beef2d7f682b5160b3844d0d8959b07a75f74c69f",
   "catalogue.json": "39bd5ee525d979eab01a30c1659bc2595c7b3bdb9389e385de0f6d7cc306f923",
   ".gitignore": "6add0aaa218514c6c57bbd001ffa34dce1a4184c2a7e37c66db38bc12edb85c9",
   "FAMILIES.md": "4d3f60afc03318e5aa7b6959581cdbbf7b3f0b098ccb14af4ec4bd371c5e40a6",
@@ -3172,5 +3172,6 @@
   "scope-proofs/belt-study-9/PROOF.md": "17fe40ede940c2b4089a85bbd1abc5653f267c4cebabbe1147e491f93c63810d",
   "scope-proofs/belt-study-9/verification.md": "9660eef09cc501d26d60359b84fb8303a23ae7e4c33b73e5d76ecbf6b568109a",
   "scope-proofs/belt-study-11-plus/PROOF.md": "e67bc859ba37ab3e2b7164babc8243e3638e18b4310ae8274f87619a3951282c",
-  "scope-proofs/belt-study-11-plus/independent-review.md": "a7d04c577271e0c5db50875ee2100c8ccba3231f46d8408eca14c735956d515f"
+  "scope-proofs/belt-study-11-plus/independent-review.md": "a7d04c577271e0c5db50875ee2100c8ccba3231f46d8408eca14c735956d515f",
+  "validation/publication-replay.json": "6ca56de124f45473292af5421cfeac415ae20a24fd87faa198791e36143fa2c1"
 }

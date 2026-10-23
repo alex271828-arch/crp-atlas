@@ -1,0 +1,3882 @@
+{
+  "coordinate_certificates": 198,
+  "coordinate_certificates_passed": 198,
+  "exclusion_certificates": 8,
+  "exclusion_certificates_passed": 8,
+  "python": "3.10.2",
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "kernel_sha256": {
+    "software/metric-converter/check.py": "df46f8b9451a634429e7fcd378ea4ccf6e1e001024eadcd8580099d72734e0af",
+    "software/metric-converter/algebra.py": "4dcc5bee8ed7872c98101ee20eb9eda981a1c5361c75c05454f491c60b3f257d",
+    "software/metric-converter/convert.py": "ddbb59836b2bcc7442ab42d8f036e440d9a420ffbc6c984e3ab2f4c8aa92e7ff",
+    "software/metric-converter/reconstruct.py": "5bcb8bd52f31375eaf90f87229d108c28d3f275265f86471595661a77a41a432",
+    "software/metric-converter/report.py": "0248f8a8c82f05c1d5407a2f6f7d7bfb74f2ce13ea542def73287fa8fdfc037e",
+    "software/bi-certifier/symmetry.py": "aad28cdfbbf815dfd9d87c82fb9722404ab785dc2bd7ec75902369dabd3fb0c5",
+    "software/bi-certifier/field.py": "5b33807ee566d7ada4acab72a2f28b8791a2413dcdc110fdcc4fc1b4e2b8aa9a",
+    "software/bi-certifier/run.py": "f1aec24f155ed9531e1d17a4500643e573adf3fe98fb1a81788e695926f50975",
+    "software/bi-certifier/produce.py": "fb1ce98d87f484aed0ec45c74e68b3d1011835195f4349d0874d99cf34665856",
+    "software/bi-certifier/check.py": "5485b5b238cc79869b9b132c7013350cb0696b014d2dce353bc9ffb61e038e4e",
+    "software/bi-certifier/hull_metric.py": "fb2897f8802457aaf6e403868358842c5afa31a5fed95aac50ba9dbc4a28c54c",
+    "software/bi-certifier/exact_intervals.py": "11ceaa91c3c4ef970963b90005d597b6febb1ebbb92f5db0007ba5583d63f112",
+    "software/bi-certifier/metric.py": "c7b0f232d7b1978dcf4c6cacaa0c5945a956f066f5cbec5356d7aca96410930b",
+    "software/bi-certifier/proof.py": "96e93f61c0a6ad3ca53cc0a7c9a1a83167e7d2e898f27e786f56c2dbdef9c762",
+    "software/bi-certifier/hull_proposal.py": "2f3c1508aebbcbb7d86bce6eab1090e77db832dab75108f0e7707594a94f5d48"
+  },
+  "results": [
+    {
+      "item": "Body 1",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 4,
+        "faces": 4,
+        "regular_face_pairs": 12,
+        "supporting_facets": 4,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 4,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 2",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 8,
+        "faces": 6,
+        "regular_face_pairs": 36,
+        "supporting_facets": 6,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 8,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 3",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 6,
+        "faces": 8,
+        "regular_face_pairs": 24,
+        "supporting_facets": 8,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 6,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 4",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 20,
+        "faces": 12,
+        "regular_face_pairs": 120,
+        "supporting_facets": 12,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 20,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 5",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 12,
+        "faces": 20,
+        "regular_face_pairs": 60,
+        "supporting_facets": 20,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 12,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 6",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 12,
+        "faces": 8,
+        "regular_face_pairs": 72,
+        "supporting_facets": 8,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 12,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 7",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 24,
+        "faces": 14,
+        "regular_face_pairs": 192,
+        "supporting_facets": 14,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 24,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 8",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 24,
+        "faces": 14,
+        "regular_face_pairs": 156,
+        "supporting_facets": 14,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 24,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 9",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 60,
+        "faces": 32,
+        "regular_face_pairs": 600,
+        "supporting_facets": 32,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 60,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 10",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 60,
+        "faces": 32,
+        "regular_face_pairs": 420,
+        "supporting_facets": 32,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 60,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 11",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 12,
+        "faces": 14,
+        "regular_face_pairs": 60,
+        "supporting_facets": 14,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 12,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 12",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 48,
+        "faces": 26,
+        "regular_face_pairs": 360,
+        "supporting_facets": 26,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 48,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 13",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 24,
+        "faces": 26,
+        "regular_face_pairs": 132,
+        "supporting_facets": 26,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 24,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 14",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 24,
+        "faces": 38,
+        "regular_face_pairs": 132,
+        "supporting_facets": 38,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 24,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 3,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 15",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 30,
+        "faces": 32,
+        "regular_face_pairs": 180,
+        "supporting_facets": 32,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 30,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 16",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 120,
+        "faces": 62,
+        "regular_face_pairs": 1020,
+        "supporting_facets": 62,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 120,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 17",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 60,
+        "faces": 62,
+        "regular_face_pairs": 360,
+        "supporting_facets": 62,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 60,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 18",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 60,
+        "faces": 92,
+        "regular_face_pairs": 360,
+        "supporting_facets": 92,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 60,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 19",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 8,
+        "faces": 10,
+        "regular_face_pairs": 36,
+        "supporting_facets": 10,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 8,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 3,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 20",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 10,
+        "faces": 12,
+        "regular_face_pairs": 50,
+        "supporting_facets": 12,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 10,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 21",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 12,
+        "faces": 14,
+        "regular_face_pairs": 66,
+        "supporting_facets": 14,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 12,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 3,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 22",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 16,
+        "faces": 18,
+        "regular_face_pairs": 104,
+        "supporting_facets": 18,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 16,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 3,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 23",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 20,
+        "faces": 22,
+        "regular_face_pairs": 150,
+        "supporting_facets": 22,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 20,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 3,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 24",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 6,
+        "faces": 5,
+        "regular_face_pairs": 24,
+        "supporting_facets": 5,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 6,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 25",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 10,
+        "faces": 7,
+        "regular_face_pairs": 50,
+        "supporting_facets": 7,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 10,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 26",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 12,
+        "faces": 8,
+        "regular_face_pairs": 66,
+        "supporting_facets": 8,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 12,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 27",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 16,
+        "faces": 10,
+        "regular_face_pairs": 104,
+        "supporting_facets": 10,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 16,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 28",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 20,
+        "faces": 12,
+        "regular_face_pairs": 150,
+        "supporting_facets": 12,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 20,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 29",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 5,
+        "faces": 5,
+        "regular_face_pairs": 18,
+        "supporting_facets": 5,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 5,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 3,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 30",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 6,
+        "faces": 6,
+        "regular_face_pairs": 25,
+        "supporting_facets": 6,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 6,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 31",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 9,
+        "faces": 8,
+        "regular_face_pairs": 45,
+        "supporting_facets": 8,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 9,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 3,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 32",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 12,
+        "faces": 10,
+        "regular_face_pairs": 70,
+        "supporting_facets": 10,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 12,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 33",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 15,
+        "faces": 12,
+        "regular_face_pairs": 100,
+        "supporting_facets": 12,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 15,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 34",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 20,
+        "faces": 17,
+        "regular_face_pairs": 135,
+        "supporting_facets": 17,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 20,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 35",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 7,
+        "faces": 7,
+        "regular_face_pairs": 30,
+        "supporting_facets": 7,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 7,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 36",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 9,
+        "faces": 9,
+        "regular_face_pairs": 42,
+        "supporting_facets": 9,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 9,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 37",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 11,
+        "faces": 11,
+        "regular_face_pairs": 55,
+        "supporting_facets": 11,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 11,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 0,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 38",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 9,
+        "faces": 13,
+        "regular_face_pairs": 42,
+        "supporting_facets": 13,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 9,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 3,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 39",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 11,
+        "faces": 16,
+        "regular_face_pairs": 55,
+        "supporting_facets": 16,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 11,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 40",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 5,
+        "faces": 6,
+        "regular_face_pairs": 18,
+        "supporting_facets": 6,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 5,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 41",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 7,
+        "faces": 10,
+        "regular_face_pairs": 30,
+        "supporting_facets": 10,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 7,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 42",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 8,
+        "faces": 9,
+        "regular_face_pairs": 36,
+        "supporting_facets": 9,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 8,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 43",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 10,
+        "faces": 12,
+        "regular_face_pairs": 48,
+        "supporting_facets": 12,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 10,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 44",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 12,
+        "faces": 15,
+        "regular_face_pairs": 60,
+        "supporting_facets": 15,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 12,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 45",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 10,
+        "faces": 16,
+        "regular_face_pairs": 48,
+        "supporting_facets": 16,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 10,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 46",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 15,
+        "faces": 14,
+        "regular_face_pairs": 81,
+        "supporting_facets": 14,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 15,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 47",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 20,
+        "faces": 18,
+        "regular_face_pairs": 118,
+        "supporting_facets": 18,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 20,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 48",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 25,
+        "faces": 22,
+        "regular_face_pairs": 160,
+        "supporting_facets": 22,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 25,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 49",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 30,
+        "faces": 27,
+        "regular_face_pairs": 195,
+        "supporting_facets": 27,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 30,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 50",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 15,
+        "faces": 20,
+        "regular_face_pairs": 81,
+        "supporting_facets": 20,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 15,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 51",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 20,
+        "faces": 26,
+        "regular_face_pairs": 118,
+        "supporting_facets": 26,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 20,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 52",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 25,
+        "faces": 32,
+        "regular_face_pairs": 160,
+        "supporting_facets": 32,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 25,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 53",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 30,
+        "faces": 37,
+        "regular_face_pairs": 195,
+        "supporting_facets": 37,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 30,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 54",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 8,
+        "faces": 8,
+        "regular_face_pairs": 36,
+        "supporting_facets": 8,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 8,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 55",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 12,
+        "faces": 14,
+        "regular_face_pairs": 60,
+        "supporting_facets": 14,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 12,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 56",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 16,
+        "faces": 18,
+        "regular_face_pairs": 84,
+        "supporting_facets": 18,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 16,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 57",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 16,
+        "faces": 18,
+        "regular_face_pairs": 84,
+        "supporting_facets": 18,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 16,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 58",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 20,
+        "faces": 22,
+        "regular_face_pairs": 110,
+        "supporting_facets": 22,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 20,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 59",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 20,
+        "faces": 22,
+        "regular_face_pairs": 110,
+        "supporting_facets": 22,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 20,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 60",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 25,
+        "faces": 27,
+        "regular_face_pairs": 145,
+        "supporting_facets": 27,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 25,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 61",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 25,
+        "faces": 27,
+        "regular_face_pairs": 145,
+        "supporting_facets": 27,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 25,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 62",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 30,
+        "faces": 32,
+        "regular_face_pairs": 180,
+        "supporting_facets": 32,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 30,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 63",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 18,
+        "faces": 20,
+        "regular_face_pairs": 96,
+        "supporting_facets": 20,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 18,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 3,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 64",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 18,
+        "faces": 20,
+        "regular_face_pairs": 96,
+        "supporting_facets": 20,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 18,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 3,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 65",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 24,
+        "faces": 26,
+        "regular_face_pairs": 132,
+        "supporting_facets": 26,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 24,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 66",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 30,
+        "faces": 32,
+        "regular_face_pairs": 170,
+        "supporting_facets": 32,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 30,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 67",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 30,
+        "faces": 32,
+        "regular_face_pairs": 170,
+        "supporting_facets": 32,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 30,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 68",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 35,
+        "faces": 37,
+        "regular_face_pairs": 205,
+        "supporting_facets": 37,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 35,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 0,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 69",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 35,
+        "faces": 37,
+        "regular_face_pairs": 205,
+        "supporting_facets": 37,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 35,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 70",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 40,
+        "faces": 42,
+        "regular_face_pairs": 240,
+        "supporting_facets": 42,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 40,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 71",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 40,
+        "faces": 42,
+        "regular_face_pairs": 240,
+        "supporting_facets": 42,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 40,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 72",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 18,
+        "faces": 26,
+        "regular_face_pairs": 96,
+        "supporting_facets": 26,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 18,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 73",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 24,
+        "faces": 34,
+        "regular_face_pairs": 132,
+        "supporting_facets": 34,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 24,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 74",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 30,
+        "faces": 42,
+        "regular_face_pairs": 170,
+        "supporting_facets": 42,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 30,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 75",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 35,
+        "faces": 47,
+        "regular_face_pairs": 205,
+        "supporting_facets": 47,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 35,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 0,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 76",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 40,
+        "faces": 52,
+        "regular_face_pairs": 240,
+        "supporting_facets": 52,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 40,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 77",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 7,
+        "faces": 8,
+        "regular_face_pairs": 30,
+        "supporting_facets": 8,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 7,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 78",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 8,
+        "faces": 11,
+        "regular_face_pairs": 36,
+        "supporting_facets": 11,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 8,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 3,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 79",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 9,
+        "faces": 14,
+        "regular_face_pairs": 42,
+        "supporting_facets": 14,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 9,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 80",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 11,
+        "faces": 10,
+        "regular_face_pairs": 56,
+        "supporting_facets": 10,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 11,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 81",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 12,
+        "faces": 13,
+        "regular_face_pairs": 62,
+        "supporting_facets": 13,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 12,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 82",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 13,
+        "faces": 11,
+        "regular_face_pairs": 72,
+        "supporting_facets": 11,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 13,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 83",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 14,
+        "faces": 14,
+        "regular_face_pairs": 78,
+        "supporting_facets": 14,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 14,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 84",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 14,
+        "faces": 14,
+        "regular_face_pairs": 78,
+        "supporting_facets": 14,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 14,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 85",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 15,
+        "faces": 17,
+        "regular_face_pairs": 84,
+        "supporting_facets": 17,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 15,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 86",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 21,
+        "faces": 16,
+        "regular_face_pairs": 125,
+        "supporting_facets": 16,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 21,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 87",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 22,
+        "faces": 20,
+        "regular_face_pairs": 130,
+        "supporting_facets": 20,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 22,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 88",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 22,
+        "faces": 20,
+        "regular_face_pairs": 130,
+        "supporting_facets": 20,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 22,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 89",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 23,
+        "faces": 24,
+        "regular_face_pairs": 135,
+        "supporting_facets": 24,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 23,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 90",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 10,
+        "faces": 12,
+        "regular_face_pairs": 50,
+        "supporting_facets": 12,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 10,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 91",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 9,
+        "faces": 8,
+        "regular_face_pairs": 45,
+        "supporting_facets": 8,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 9,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 92",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 10,
+        "faces": 10,
+        "regular_face_pairs": 51,
+        "supporting_facets": 10,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 10,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 93",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 15,
+        "faces": 14,
+        "regular_face_pairs": 87,
+        "supporting_facets": 14,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 15,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 3,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 94",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 28,
+        "faces": 22,
+        "regular_face_pairs": 206,
+        "supporting_facets": 22,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 28,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 95",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 32,
+        "faces": 30,
+        "regular_face_pairs": 220,
+        "supporting_facets": 30,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 32,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 96",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 65,
+        "faces": 42,
+        "regular_face_pairs": 610,
+        "supporting_facets": 42,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 65,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 97",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 70,
+        "faces": 52,
+        "regular_face_pairs": 620,
+        "supporting_facets": 52,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 70,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 98",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 70,
+        "faces": 52,
+        "regular_face_pairs": 620,
+        "supporting_facets": 52,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 70,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 99",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 75,
+        "faces": 62,
+        "regular_face_pairs": 630,
+        "supporting_facets": 62,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 75,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 100",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 60,
+        "faces": 62,
+        "regular_face_pairs": 360,
+        "supporting_facets": 62,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 60,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 101",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 60,
+        "faces": 62,
+        "regular_face_pairs": 360,
+        "supporting_facets": 62,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 60,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 102",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 60,
+        "faces": 62,
+        "regular_face_pairs": 360,
+        "supporting_facets": 62,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 60,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 103",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 60,
+        "faces": 62,
+        "regular_face_pairs": 360,
+        "supporting_facets": 62,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 60,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 104",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 55,
+        "faces": 52,
+        "regular_face_pairs": 350,
+        "supporting_facets": 52,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 55,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 105",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 55,
+        "faces": 52,
+        "regular_face_pairs": 350,
+        "supporting_facets": 52,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 55,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 106",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 55,
+        "faces": 52,
+        "regular_face_pairs": 350,
+        "supporting_facets": 52,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 55,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 107",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 55,
+        "faces": 52,
+        "regular_face_pairs": 350,
+        "supporting_facets": 52,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 55,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 108",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 50,
+        "faces": 42,
+        "regular_face_pairs": 340,
+        "supporting_facets": 42,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 50,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 109",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 50,
+        "faces": 42,
+        "regular_face_pairs": 340,
+        "supporting_facets": 42,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 50,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 110",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 50,
+        "faces": 42,
+        "regular_face_pairs": 340,
+        "supporting_facets": 42,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 50,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 111",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 45,
+        "faces": 32,
+        "regular_face_pairs": 330,
+        "supporting_facets": 32,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 45,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 112",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 8,
+        "faces": 12,
+        "regular_face_pairs": 36,
+        "supporting_facets": 12,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 8,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 113",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 16,
+        "faces": 26,
+        "regular_face_pairs": 84,
+        "supporting_facets": 26,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 16,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 3,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 114",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 10,
+        "faces": 14,
+        "regular_face_pairs": 48,
+        "supporting_facets": 14,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 10,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 115",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 11,
+        "faces": 17,
+        "regular_face_pairs": 54,
+        "supporting_facets": 17,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 11,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 3,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 116",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 12,
+        "faces": 18,
+        "regular_face_pairs": 60,
+        "supporting_facets": 18,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 12,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 3,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 117",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 14,
+        "faces": 21,
+        "regular_face_pairs": 72,
+        "supporting_facets": 21,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 14,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 118",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 16,
+        "faces": 24,
+        "regular_face_pairs": 84,
+        "supporting_facets": 24,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 16,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 3,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 119",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 14,
+        "faces": 14,
+        "regular_face_pairs": 76,
+        "supporting_facets": 14,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 14,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 120",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 18,
+        "faces": 20,
+        "regular_face_pairs": 102,
+        "supporting_facets": 20,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 18,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 121",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 28,
+        "faces": 22,
+        "regular_face_pairs": 206,
+        "supporting_facets": 18,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 28,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 122",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 32,
+        "faces": 30,
+        "regular_face_pairs": 220,
+        "supporting_facets": 26,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 32,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 123",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 32,
+        "faces": 30,
+        "regular_face_pairs": 220,
+        "supporting_facets": 22,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 32,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 124",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 65,
+        "faces": 42,
+        "regular_face_pairs": 610,
+        "supporting_facets": 37,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 65,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 125",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 70,
+        "faces": 52,
+        "regular_face_pairs": 620,
+        "supporting_facets": 42,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 70,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 126",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 70,
+        "faces": 52,
+        "regular_face_pairs": 620,
+        "supporting_facets": 47,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 70,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 127",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 70,
+        "faces": 52,
+        "regular_face_pairs": 620,
+        "supporting_facets": 42,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 70,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 128",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 70,
+        "faces": 52,
+        "regular_face_pairs": 620,
+        "supporting_facets": 47,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 70,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 129",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 75,
+        "faces": 62,
+        "regular_face_pairs": 630,
+        "supporting_facets": 47,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 75,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 130",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 75,
+        "faces": 62,
+        "regular_face_pairs": 630,
+        "supporting_facets": 52,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 75,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 131",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 75,
+        "faces": 62,
+        "regular_face_pairs": 630,
+        "supporting_facets": 57,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 75,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 132",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 31,
+        "faces": 41,
+        "regular_face_pairs": 200,
+        "supporting_facets": 36,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 31,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 133",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 8,
+        "faces": 10,
+        "regular_face_pairs": 36,
+        "supporting_facets": 8,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 8,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 3,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 134",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 8,
+        "faces": 10,
+        "regular_face_pairs": 36,
+        "supporting_facets": 6,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 8,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 135",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 6,
+        "faces": 7,
+        "regular_face_pairs": 24,
+        "supporting_facets": 5,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 6,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 3,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 136",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 12,
+        "faces": 10,
+        "regular_face_pairs": 62,
+        "supporting_facets": 8,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 12,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 3,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 137",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 14,
+        "faces": 13,
+        "regular_face_pairs": 74,
+        "supporting_facets": 9,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 14,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 3,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 138",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 13,
+        "faces": 13,
+        "regular_face_pairs": 68,
+        "supporting_facets": 11,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 13,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 3,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 139",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 12,
+        "faces": 12,
+        "regular_face_pairs": 60,
+        "supporting_facets": 8,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 12,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 140",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 10,
+        "faces": 9,
+        "regular_face_pairs": 48,
+        "supporting_facets": 7,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 10,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 141",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 12,
+        "faces": 12,
+        "regular_face_pairs": 60,
+        "supporting_facets": 8,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 12,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 142",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 11,
+        "faces": 12,
+        "regular_face_pairs": 54,
+        "supporting_facets": 10,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 11,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 143",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 8,
+        "faces": 8,
+        "regular_face_pairs": 36,
+        "supporting_facets": 6,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 8,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 144",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 9,
+        "faces": 11,
+        "regular_face_pairs": 42,
+        "supporting_facets": 9,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 9,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 145",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 10,
+        "faces": 14,
+        "regular_face_pairs": 48,
+        "supporting_facets": 12,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 10,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 3,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 146",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 10,
+        "faces": 11,
+        "regular_face_pairs": 51,
+        "supporting_facets": 8,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 10,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 3,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 147",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 12,
+        "faces": 12,
+        "regular_face_pairs": 66,
+        "supporting_facets": 8,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 12,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 3,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 148",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 15,
+        "faces": 18,
+        "regular_face_pairs": 81,
+        "supporting_facets": 16,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 15,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 149",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 15,
+        "faces": 18,
+        "regular_face_pairs": 81,
+        "supporting_facets": 16,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 15,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 150",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 15,
+        "faces": 18,
+        "regular_face_pairs": 81,
+        "supporting_facets": 14,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 15,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 151",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 16,
+        "faces": 22,
+        "regular_face_pairs": 86,
+        "supporting_facets": 18,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 16,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 152",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 15,
+        "faces": 14,
+        "regular_face_pairs": 87,
+        "supporting_facets": 11,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 15,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 153",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 18,
+        "faces": 16,
+        "regular_face_pairs": 108,
+        "supporting_facets": 12,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 18,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 3,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 154",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 13,
+        "faces": 17,
+        "regular_face_pairs": 66,
+        "supporting_facets": 14,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 13,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 155",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 14,
+        "faces": 20,
+        "regular_face_pairs": 72,
+        "supporting_facets": 14,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 14,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 156",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 13,
+        "faces": 17,
+        "regular_face_pairs": 66,
+        "supporting_facets": 13,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 13,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 157",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 14,
+        "faces": 20,
+        "regular_face_pairs": 72,
+        "supporting_facets": 12,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 14,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 158",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 18,
+        "faces": 20,
+        "regular_face_pairs": 102,
+        "supporting_facets": 17,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 18,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 159",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 26,
+        "faces": 31,
+        "regular_face_pairs": 150,
+        "supporting_facets": 27,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 26,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 160",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 26,
+        "faces": 31,
+        "regular_face_pairs": 150,
+        "supporting_facets": 26,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 26,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 161",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 27,
+        "faces": 35,
+        "regular_face_pairs": 155,
+        "supporting_facets": 27,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 27,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 162",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 19,
+        "faces": 24,
+        "regular_face_pairs": 107,
+        "supporting_facets": 21,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 19,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 163",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 26,
+        "faces": 31,
+        "regular_face_pairs": 150,
+        "supporting_facets": 27,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 26,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 164",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 26,
+        "faces": 31,
+        "regular_face_pairs": 150,
+        "supporting_facets": 26,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 26,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 165",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 27,
+        "faces": 35,
+        "regular_face_pairs": 155,
+        "supporting_facets": 27,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 27,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 166",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 22,
+        "faces": 26,
+        "regular_face_pairs": 128,
+        "supporting_facets": 22,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 22,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 167",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 16,
+        "faces": 22,
+        "regular_face_pairs": 86,
+        "supporting_facets": 18,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 16,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 168",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 36,
+        "faces": 41,
+        "regular_face_pairs": 210,
+        "supporting_facets": 36,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 36,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 169",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 36,
+        "faces": 41,
+        "regular_face_pairs": 210,
+        "supporting_facets": 36,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 36,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 0,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 170",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 31,
+        "faces": 36,
+        "regular_face_pairs": 185,
+        "supporting_facets": 32,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 31,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 171",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 32,
+        "faces": 40,
+        "regular_face_pairs": 190,
+        "supporting_facets": 32,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 32,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 172",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 31,
+        "faces": 36,
+        "regular_face_pairs": 185,
+        "supporting_facets": 31,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 31,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 173",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 32,
+        "faces": 40,
+        "regular_face_pairs": 190,
+        "supporting_facets": 31,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 32,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 174",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 32,
+        "faces": 40,
+        "regular_face_pairs": 190,
+        "supporting_facets": 30,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 32,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 175",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 32,
+        "faces": 40,
+        "regular_face_pairs": 190,
+        "supporting_facets": 32,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 32,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 176",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 32,
+        "faces": 40,
+        "regular_face_pairs": 190,
+        "supporting_facets": 32,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 32,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 177",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 33,
+        "faces": 44,
+        "regular_face_pairs": 195,
+        "supporting_facets": 32,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 33,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 178",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 33,
+        "faces": 44,
+        "regular_face_pairs": 195,
+        "supporting_facets": 31,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 33,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 0,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 179",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 33,
+        "faces": 44,
+        "regular_face_pairs": 195,
+        "supporting_facets": 32,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 33,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 180",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 34,
+        "faces": 48,
+        "regular_face_pairs": 200,
+        "supporting_facets": 32,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 34,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 181",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 41,
+        "faces": 46,
+        "regular_face_pairs": 245,
+        "supporting_facets": 41,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 41,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 182",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 41,
+        "faces": 46,
+        "regular_face_pairs": 245,
+        "supporting_facets": 41,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 41,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 183",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 31,
+        "faces": 36,
+        "regular_face_pairs": 185,
+        "supporting_facets": 31,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 31,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 184",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 32,
+        "faces": 40,
+        "regular_face_pairs": 190,
+        "supporting_facets": 30,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 32,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 185",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 41,
+        "faces": 56,
+        "regular_face_pairs": 245,
+        "supporting_facets": 51,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 41,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 186",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 32,
+        "faces": 40,
+        "regular_face_pairs": 190,
+        "supporting_facets": 30,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 32,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 187",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 33,
+        "faces": 44,
+        "regular_face_pairs": 195,
+        "supporting_facets": 29,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 33,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 188",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 42,
+        "faces": 50,
+        "regular_face_pairs": 250,
+        "supporting_facets": 40,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 42,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 189",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 42,
+        "faces": 50,
+        "regular_face_pairs": 250,
+        "supporting_facets": 40,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 42,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 190",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 42,
+        "faces": 60,
+        "regular_face_pairs": 250,
+        "supporting_facets": 50,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 42,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 191",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 36,
+        "faces": 51,
+        "regular_face_pairs": 210,
+        "supporting_facets": 46,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 36,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 192",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 21,
+        "faces": 21,
+        "regular_face_pairs": 140,
+        "supporting_facets": 17,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 21,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 193",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 21,
+        "faces": 21,
+        "regular_face_pairs": 140,
+        "supporting_facets": 16,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 21,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 194",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 22,
+        "faces": 25,
+        "regular_face_pairs": 145,
+        "supporting_facets": 17,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 22,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 195",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 8,
+        "faces": 12,
+        "regular_face_pairs": 36,
+        "supporting_facets": 6,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 8,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 1,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 196",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 7,
+        "faces": 10,
+        "regular_face_pairs": 30,
+        "supporting_facets": 7,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 7,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 197",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 10,
+        "faces": 14,
+        "regular_face_pairs": 48,
+        "supporting_facets": 12,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 10,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Body 198",
+      "passed": true,
+      "report": {
+        "status": "CERTIFIED",
+        "verified": true,
+        "vertices": 31,
+        "faces": 31,
+        "regular_face_pairs": 200,
+        "supporting_facets": 26,
+        "exact_facet_tilings": true,
+        "exact_sphere_memberships": 31,
+        "cartesian_isometry": true,
+        "printed_formulas_verified": true,
+        "positive_radicals": 2,
+        "field_minimality_claimed": false,
+        "global_expression_optimality_claimed": false
+      }
+    },
+    {
+      "item": "Exclusion 01",
+      "passed": true,
+      "report": {
+        "status": "EXCLUDED_NONFLAT",
+        "root_certified": true,
+        "convex_metric_certified": true,
+        "excluded": true,
+        "reason": "Certified convex realization has a nonzero original-face defect."
+      }
+    },
+    {
+      "item": "Exclusion 02",
+      "passed": true,
+      "report": {
+        "status": "EXCLUDED_NONFLAT",
+        "root_certified": true,
+        "convex_metric_certified": true,
+        "excluded": true,
+        "reason": "Certified convex realization has a nonzero original-face defect."
+      }
+    },
+    {
+      "item": "Exclusion 03",
+      "passed": true,
+      "report": {
+        "status": "EXCLUDED_NONFLAT",
+        "root_certified": true,
+        "convex_metric_certified": true,
+        "excluded": true,
+        "reason": "Certified convex-hull metric realization has a nonzero original-face defect."
+      }
+    },
+    {
+      "item": "Exclusion 04",
+      "passed": true,
+      "report": {
+        "status": "EXCLUDED_NONFLAT",
+        "root_certified": true,
+        "convex_metric_certified": true,
+        "excluded": true,
+        "reason": "Certified convex-hull metric realization has a nonzero original-face defect."
+      }
+    },
+    {
+      "item": "Exclusion 05",
+      "passed": true,
+      "report": {
+        "status": "EXCLUDED_NONFLAT",
+        "root_certified": true,
+        "convex_metric_certified": true,
+        "excluded": true,
+        "reason": "Certified convex realization has a nonzero original-face defect."
+      }
+    },
+    {
+      "item": "Exclusion 06",
+      "passed": true,
+      "report": {
+        "status": "EXCLUDED_NONFLAT",
+        "root_certified": true,
+        "convex_metric_certified": true,
+        "excluded": true,
+        "reason": "Certified convex realization has a nonzero original-face defect."
+      }
+    },
+    {
+      "item": "Exclusion 07",
+      "passed": true,
+      "report": {
+        "status": "EXCLUDED_NONFLAT",
+        "root_certified": true,
+        "convex_metric_certified": true,
+        "excluded": true,
+        "reason": "Certified convex realization has a nonzero original-face defect."
+      }
+    },
+    {
+      "item": "Exclusion 08",
+      "passed": true,
+      "report": {
+        "status": "EXCLUDED_NONFLAT",
+        "root_certified": true,
+        "convex_metric_certified": true,
+        "excluded": true,
+        "reason": "Certified convex-hull metric realization has a nonzero original-face defect."
+      }
+    }
+  ],
+  "public_site_integrity": {
+    "public_site_files_checked": 201,
+    "mismatches": []
+  },
+  "publication_note": "The BI checker uses its own status, root_certified, convex_metric_certified and excluded fields. The publication wrapper was corrected to interpret those fields; exclusions were replayed with the corrected wrapper. Mathematical checkers and certificates were not changed."
+}
