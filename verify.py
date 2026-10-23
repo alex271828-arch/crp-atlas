@@ -9,7 +9,10 @@ def replay(item):
  try:
   p=subprocess.run([sys.executable,str(checker),str(certificate)],capture_output=True,text=True,timeout=timeout)
   report=json.loads(p.stdout)
-  passed=p.returncode==0 and report.get('verified') is True
+  if checker.parent.name=='bi-certifier':
+   passed=p.returncode==0 and report.get('status')=='EXCLUDED_NONFLAT' and all(report.get(k) is True for k in ('root_certified','convex_metric_certified','excluded'))
+  else:
+   passed=p.returncode==0 and report.get('verified') is True
   return dict(item=label,passed=passed,report=report)
  except Exception as error:return dict(item=label,passed=False,error=str(error))
 
